@@ -37,7 +37,7 @@ import drInfo from '../../assets/json/drInfo';
   }
 </script>
 
-<style lang="scss">
-  @import 'styles.scss';
+<style >
+
 </style>
 
