@@ -1,0 +1,59 @@
+.happy-patient-wrapper{
+    position: relative;
+    display: inline-block;
+    float: right;
+    z-index: 2;
+    width: 100%;
+    @media(max-width:480px){
+        margin-top: 70px;
+    }
+}
+
+.happy-patient{
+    float: right;
+    max-width: 500px;
+    height: 532px;
+    background : url('~assets/happy-patient-exercise.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    @media(max-width:780px){
+        height: 451px;
+    }
+}
+
+.happy-patient-pink{
+    float: right;
+    width: 100%;
+    max-width: 500px;
+    height: 532px;
+    background : url('~assets/happy-patient-meditating.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    z-index: 2;
+    @media(max-width:780px){
+        height: 451px;
+    }
+}
+
+.happy-patient-yellow-blob{
+    position: absolute;
+    top: -90px;
+    right: -53px;
+    width: 170px;
+    z-index: 2;
+    @media(max-width:480px){
+        width: 129px;
+    }
+}
+
+.happy-patient-green-blob{
+    position: absolute;
+    right: -171px;
+    bottom: -114px;
+}

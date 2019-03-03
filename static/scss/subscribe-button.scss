@@ -1,0 +1,38 @@
+.subscribe-submit{
+   box-shadow: 6px 6px 0 0 #d6d3cc;
+   padding: 16px;
+   background: #fff;
+   max-width: 466px;
+   display: inline-block;
+   width: 100%;
+   position: relative;
+
+}
+
+.email-subscribe-btn{
+    width: 100%;
+    outline: none !important;
+    background: transparent;
+    font-family: 'Circular Std';
+    color: #000;
+    text-align: left;
+    font-size: 20px;
+    padding: 0px;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+
+
+.email-subscribe-btn ::placeholder{
+    color: #000;
+}
+
+
+.submit-icon{
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    right: 10px;
+    color: #e68e83;
+}

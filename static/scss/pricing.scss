@@ -1,0 +1,55 @@
+.pricing-wrap-medium{
+    max-width: 770px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+}
+
+.pricing-grid{
+    padding: 32px;
+    background: #fff;
+    box-shadow: 0 0 2rem rgba(0,0,0,.1);
+}
+
+.pricing-grid-items{
+    padding: 28px 80px 28px 16px;
+    border-bottom: 1px solid #ebebeb;
+    position: relative;
+}
+
+.pricing-grid-items::after{
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url('~static/images/blue-checkmark.svg');
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    content: '';
+    top: 50%;
+    right: 1.5rem;
+}
+
+.pricing-copy{
+    line-height: 24px;
+    font-size: 16px;
+    color: #5b5e6d;
+    @extend %averta !optional;
+    margin-bottom: 0px;
+    margin-top: 16px;
+}
+
+.pricing-title{
+    font-weight: 600;
+    margin-top: 5px !important;
+}
+
+.pricing-end{
+    padding-bottom: 0px !important;
+    border-bottom: none !important;
+}
+
+.background{
+    z-index: -1 !important;
+}

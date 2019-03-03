@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="277px" height="277px" viewBox="0 0 277 277" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 39 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#676767" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="58.1732302%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Zen-Patient" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Zen-Patient-Logo" transform="translate(0.000000, -1.000000)">
+            <g id="Group-2">
+                <g id="Group">
+                    <g id="Group-39-Copy">
+                        <g id="dr-logo" transform="translate(138.500000, 138.741787) scale(1, -1) translate(-138.500000, -138.741787) translate(0.000000, 0.241787)" fill="#FF7C7C">
+                            <rect id="Rectangle-9" x="0" y="0" width="276.078558" height="276.210178" rx="5"></rect>
+                        </g>
+                        <g id="download-copy" transform="translate(41.000000, 66.000000)" fill-rule="nonzero">
+                            <g id="LogoPatient-Blue">
+                                <rect id="Rectangle-path" fill="url(#linearGradient-1)" transform="translate(69.891894, 70.264599) rotate(-45.000000) translate(-69.891894, -70.264599) " x="39.2377939" y="2.54330057" width="61.3082007" height="135.442598"></rect>
+                                <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(123.981322, 74.131281) rotate(-45.000000) translate(-123.981322, -74.131281) " x="55.0095962" y="44.0329255" width="137.943451" height="60.19671"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

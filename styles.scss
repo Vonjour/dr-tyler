@@ -1,0 +1,208 @@
+@import '~/node_modules/bootstrap/dist/css/bootstrap.css';
+
+
+//universal classes
+body{
+  -webkit-font-smoothing: antialiased;
+}
+
+.white-button{
+    text-decoration: none;
+    color: #4850b6 !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: center;
+    font-family: 'Averta Semibold';
+    line-height: 1.3;
+    letter-spacing: normal;
+    font-size: .9rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 19px 40px 20px;
+    display: block;
+    width: 100%;
+  }
+
+  .c-button{
+  -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: 0 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: center;
+    @extend %averta-semibold !optional;
+    font-weight: 700;
+    line-height: 1.28571429;
+    letter-spacing: .8px;
+    font-size: .875rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 19px 40px 20px;
+    display: block;
+    width: max-content;
+    transition: box-shadow 420ms cubic-bezier(.165,.84,.44,1),color 420ms cubic-bezier(.165,.84,.44,1),background 420ms cubic-bezier(.165,.84,.44,1);
+  }
+.fl{
+  float: left;
+}
+
+.fr{
+  float: right;
+}
+
+.mt-32{
+  margin-top: 32px;
+}
+
+.mt-100{
+  margin-top: 100px;
+  @media(max-width: 480px){
+    margin-top: 60px;
+  }
+}
+.mt-50{
+  margin-top: 50px;
+}
+
+.mt-80{
+  margin-top: 80px;
+  @media(max-width: 480px){
+    margin-top: 50px;
+  }
+}
+
+.mb20{
+  margin-bottom: 20px;
+}
+
+.centered {
+  text-align: center; 
+}
+
+.left{
+  text-align: left;
+}
+
+
+
+.rel{
+  position: relative;
+}
+
+.white-button:hover{
+  box-shadow: 0 2px 4px #303546;
+}
+
+.purple-button{
+  color: #fff !important;
+  -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: #4850b6;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: center;
+    font-family: 'Averta Semibold';
+    line-height: 1.3;
+    letter-spacing: normal;
+    font-size: .9rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 19px 40px 20px;
+    display: inline-block;
+}
+
+.oval{
+  border-radius: 100px;
+  background: #4D6DC3 !important;
+  letter-spacing: 1px !important;
+  box-shadow: 0 4px 14px 0 rgba(77, 109, 195, 0.2);
+  text-decoration: none !important;
+}
+
+.mlr0{
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.logo-footer{
+  width: 140px;
+}
+
+
+.white-bg{
+  background: #fff !important;
+}
+.w100{ width: 100%; }
+.tdnone{ text-decoration: none!important; }
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .5s;
+  }
+  .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+    opacity: 0;
+  }
+
+$brand-color: #357F8A;
+$breakpoint-small: 480px;
+$breakpoint-medium: 768px;
+$breakpoint-large: 960px;
+$breakpoint-xlarge: 1220px;
+$breakpoint-mini-max: ($breakpoint-small - 1);
+$breakpoint-small-max: ($breakpoint-medium - 1);
+$breakpoint-medium-max: ($breakpoint-large - 1);
+$breakpoint-large-max: ($breakpoint-xlarge - 1);
+
+
+
+%avenir-demi { font-family: 'Avenir Next Demi'; -webkit-font-smoothing: antialiased; }
+%avenir-ultra { font-family: 'Avenir Next Ultra'; }
+%avenir-next { font-family: 'Averta'; -webkit-font-smoothing: antialiased;}
+%avenir-demi { font-family: 'Avenir Next Demi'; -webkit-font-smoothing: antialiased; }
+%avenir-ultra { font-family: 'Avenir Next Ultra'; }
+%averta {font-family: 'Averta'; -webkit-font-smoothing: antialiased;}
+%circular-book {font-family: 'Circular Std Book';-webkit-font-smoothing: antialiased;}
+%circular-medium { font-family: 'Circular Std Medium'; -webkit-font-smoothing: antialiased;}
+%circular-bold {font-family:'Circular Std Bold'; -webkit-font-smoothing: antialiased;}
+%cereal-black { font-family: 'Cereal Black'; -webkit-font-smoothing: antialiased;}
+%cereal-bold { font-family: 'Cereal Bold'; -webkit-font-smoothing: antialiased;}
+%cereal-book { font-family: 'Cereal Book'; -webkit-font-smoothing: antialiased;}
+%cereal-extra-bold { font-family: 'Cereal Extra-Bold'; -webkit-font-smoothing: antialiased;} 
+%cereal-light { font-family: 'Cereal Light'; -webkit-font-smoothing: antialiased;}
+%cereal-medium { font-family: 'Cereal Medium'; -webkit-font-smoothing: antialiased;}
+%tiempos-semibold { font-family: 'Tiempos Semibold'; -webkit-font-smoothing: antialiased;}
+%gt { font-family: 'GTWalsheimBold'; }
+
+@import 'static/scss/online-store.scss';
+@import 'static/scss/treatment-steps.scss';
+@import 'static/scss/video.scss';
+@import 'static/scss/philosophy-section.scss';
+@import 'static/scss/contact.scss';
+@import 'static/scss/faq.scss';
+@import 'static/scss/pricing.scss';
+@import 'static/scss/credentials.scss';
+@import 'static/scss/conditions-treated.scss';
+@import 'static/scss/featured-content.scss';
+@import 'static/scss/visit-practice.scss';
+@import 'static/scss/main.scss';
+@import 'static/scss/footer.scss';
+@import 'static/scss/hero-home.scss';
+@import 'static/scss/header.scss';
+@import 'static/scss/blog-center.scss';
+@import 'static/scss/subscribe-button.scss';
+@import 'static/scss/articles-section.scss';
+@import 'static/scss/article.scss';
+@import 'static/fonts/tiempos/stylesheet.css';
+@import 'static/fonts/avenir/stylesheet.css';
+@import 'static/fonts/Cereal/stylesheet.css';
+@import 'static/fonts/circular/stylesheet.css';
+@import 'static/fonts/averta/stylesheet.css';
+@import 'static/fonts/gt/gt-walshiem.css';
+@import 'static/fonts/font-awesome-4.7.0/css/font-awesome.min.css';

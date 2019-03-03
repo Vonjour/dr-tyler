@@ -1,0 +1,64 @@
+.header-top{
+   display: block
+}
+
+
+.announcement-section{
+    padding: 15px;
+    background: #33334f;
+    width: 100%;
+    text-align: center;
+
+}
+
+.announcement-section div{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.announcement-logo{
+    margin: 0 10px 0 0;
+
+}
+
+.announcement-title-link{
+    color: #fff; 
+    @extend %avenir-demi !optional; 
+    text-decoration: none !important; 
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.main-link{
+    color: #b8b8d9 !important;
+    margin-left: 30px;
+}
+
+.main-header{ padding: 20px; 
+    padding-top:35px;
+    width: 100%; 
+    display: none;
+}
+
+.main-header-container { 
+    width: 100%; 
+    text-align: center;
+    max-width: 1280px;
+    display: inline-block;
+
+}
+
+.logo-section { 
+    text-align: left;
+    list-style: none;
+    margin-left: 0px;
+}
+
+.logo-wrapper{
+    display: inline-block;
+}
+
+.logo {
+    height: 40px;
+}
