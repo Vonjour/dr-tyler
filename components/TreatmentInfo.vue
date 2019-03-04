@@ -35,12 +35,33 @@
                     </div>
                 </div>
             </div>
-            <div class="row mt-80">
+            <div class="pricing-grid mt-80" style="position:relative;">
+                <div class="condiiton-physician-profile"></div>
+                
+                <div class="row mt-80">
+                    <div class="col-xs-12 col-sm-10">    
+                        <h2 class="credential-subheader" style="font-size:22px">{{condition.long_form.title}}</h2>
+                        <div class="results-profile-section">
+                            <div class="condition-profile-image fl"></div>
+                            <span class="condition-doctor-message content-description">A message from Dr. Tyler</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-10 col-sm-10">
+                        <div class="content-description" v-html="condition.long_form.content"></div>
+                    </div>
+                </div>
+            </div>
+        
+
+
+            <div class="row mt-80" style="display:none;">
                 <div class="col-xs-10 col-sm-10">
                     <h2 class="credential-subheader" style="font-size:22px;">{{condition.name}} Q&A</h2>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" style="display:none;">
                 <div class="col-xs-10 col-sm-10">
                     <div class="condition-question" v-for="(question, index) in condition.questions" v-bind:key="index">
                         <h3 class="feature-link" style="text-decoration:none">{{question.question}}</h3>
