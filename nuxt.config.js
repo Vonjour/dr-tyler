@@ -34,7 +34,7 @@ module.exports = {
   ],
 
   'google-analytics': {
-    id: ''
+    id: '534534534534'
   },
 
   env: {

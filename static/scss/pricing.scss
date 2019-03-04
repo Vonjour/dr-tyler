@@ -12,6 +12,13 @@
     box-shadow: 0 0 2rem rgba(0,0,0,.1);
 }
 
+.pricing-grid-extra-padding{
+    padding: 70px 64px !important;
+    @media(max-width: 480px){
+        padding: 24px !important;
+    }
+}
+
 .pricing-grid-items{
     padding: 28px 80px 28px 16px;
     border-bottom: 1px solid #ebebeb;

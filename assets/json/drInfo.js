@@ -3,20 +3,20 @@ const drInfo = {
 	"baseUrl" : "https://localhost:3000/",
 	"blogProfile" : "dr-lee-blog.jpg",
 	"faqs" : [{
-		"question" : "Does Dr. Lee accept insurance?",
-		"answer" : "<p>I do not accept insurance nor work directly with insurance companies. However, if you have a PPO insurance plan you may be able to get a portion of my fees reimbursed from your insurance company (see below).</p><p>In order for me to provide the most effective care I can, I operate outside of the insurance system. I do this because insurance companies incentivize psychiatrists to have short, medication-focused visits, and have treatment guidelines based on this flawed system. This does a disservice to patients.</p><p>While I do not accept insurance, I can provide you with a statement that you can submit to a PPO insurance plan. To determine if you have mental health coverage through your insurance carrier, the first thing you should do is call them. Some helpful questions you can ask your insurance carrier:<ul><li>What are my mental health benefits?</li><li>What is the coverage amount per therapy session?</li><li>How many therapy sessions does my plan cover?</li><li>How much does my insurance pay for an out-of-network provider?</li><li>Is approval required from my primary care physician?</li><ul></p>"
+		"question" : "Does the Los Angeles Preventative Medicine Clinic accept insurance?",
+		"answer" : "<p>The Los Angeles Preventative Medicine CLinic does not bill insurance. However, if you have a PPO insurance plan you may be able to get a portion of your fees reimbursed from your insurance company (see below).</p><p>In order for our clinic to provide the most effective care I can, we operate outside of the insurance system. We do this because insurance companies incentivize health care providers to have short visits that don't allow physicians to do thorough examinations of a patients case, and have treatment guidelines based on this flawed system. This does a disservice to patients.</p><p>While we do not bill insurance, we can provide you with a statement that you can submit to a PPO insurance plan. To determine if you coverage through your insurance carrier, the first thing you should do is call them. Some helpful questions you can ask your insurance carrier:<ul><li>What are my preventative care health benefits?</li><li>What is the coverage amount per treatment?</li><ul></p>"
 	},
 	{
-		"question" : "Does Dr. Lee see patients outside of Los Angeles?",
-		"answer" : "<p>Tele-psychiatry visits through online platforms such as Zoom may also be considered if you feel called to connect but are not in the Los Angeles area.</p>"
+		"question" : "Does Los Angeles Preventative Medicine Clinic see patients outside of Los Angeles?",
+		"answer" : "<p>Patients from all over the world can fly to Los Angeles to see Dr. Tyler and his team. Dr. Tyler will work with out of state patients to analyze their lab work and provide the patient with a lifestyle therapy treatment plan focused on diet and exercise.</p>"
 	},
 	{
-		"question" : "Does Dr. Lee provide a sliding scale for patients who cannot afford his rates?",
-		"answer" : "<p>If you feel called to connect but can not afford the current energy exchange, please reach out as all energy exchanges will be considered on a sliding scale.</p>"
+		"question" : "What is funcitonal medicine?",
+		"answer" : "<p>Functional Medicine determines how and why illness occurs and restores health by addressing the root causes of disease for each individual. At the Los Angeles Preventative Medicine Center, It requires a detailed understanding of each patient’s genetic, biochemical, and lifestyle factors and leverages that data to direct personalized treatment plans that lead to improved patient outcomes.</p>"
 	},
 	{
-		"question" : "What forms of payment does Dr. Lee accept?",
-		"answer" : "<p>I accept Visa, MasterCard, American Express, Venmo, PayPal, and cash. I do not accept checks. I will ask for payment at the beginning of our visit.</p>"
+		"question" : "Can Dr. Tyler be my primary care physician?",
+		"answer" : "<p>At our center we treat all conditions that a primary care doctor would. Our focus, however, is working with our patients to understand the root causes of their symptoms in a way that is different than a traditional primary care visit. We are not specialists. However, if you need to see an OBGYN, cardiologist, or surgeon for example, you will be referred appropriately.</p>"
 	}
 ],
 	"fees" : [{
@@ -92,15 +92,15 @@ const drInfo = {
 			],
 			"long_form" : {
 				"title" : "The Importance of Early Heart Disease Detection",
-				"content" : "<p>Just about everyone knows someone who had a heart attack in their 40’s or early fifties.  Sadly, this first heart attack is often fatal. Here at Tyler/Tawfik Health Inc. we are committed to making sure this will never happen to you.</p><p>The medical profession has long known that heart attacks are the leading cause of death for both men and women in the United States.  And yet heart attacks can be prevented.  You are probably wondering,   ‘how can a preventable illness be the number one killer of Americans?’  The reason is simple.  The process that leads to heart attacks is silent.   By the time it ‘announces’ itself, it’s too late:  you’ve just had a heart attack or are on the verge of having one. Let’s explore this.</p><p>The disease that leads to heart attacks is called atherosclerosis. Atherosclerosis is the condition in which a fatty substance called plaque develops in the walls of your heart arteries.  Under the wrong conditions, this plaque can rupture off the arterial wall and form a clot which blocks blood from flowing to the heart muscle. When heart muscle is deprived of blood, it dies. This is a heart attack.  Often this occurs before the plaque has caused any symptoms. It’s literally a silent killer.</p><p>Plaque surreptitiously develops in our arteries as we age.  For some it may be very little, but for others it can be substantial.  At our center, we do a comprehensive analysis of your blood and your genes to determine if you are at risk of developing atherosclerosis. We also do tests which can literally visualize the amount of plaque that currently exists in your arteries.  Through this testing we can establish the stage of your atherosclerosis. This staging is a very reliable way to predict your chance of a future heart attack.  The best part of this analysis is that once we figure out your risk, we can recommend a variety of treatment modalities to substantially reduce or even eliminate the possibility of you having a heart attack.</p><p>So be pro-active. Come on in and let us test you for early heart disease.</p>"
+				"content" : "<p>Just about everyone knows someone who had a heart attack in their 40’s or early fifties.  Sadly, this first heart attack is often fatal. Here at the Los Angeles Preventative Medicine Center we are committed to making sure this will never happen to you.</p><p>The medical profession has long known that heart attacks are the leading cause of death for both men and women in the United States. And yet heart attacks can be prevented. You are probably wondering, ‘how can a preventable illness be the number one killer of Americans?’ The reason is simple. The process that leads to heart attacks is silent. By the time it ‘announces’ itself, it’s too late: you’ve just had a heart attack or are on the verge of having one. Let’s explore this.</p><p>The disease that leads to heart attacks is called atherosclerosis. Atherosclerosis is the condition in which a fatty substance called plaque develops in the walls of your heart arteries.  Under the wrong conditions, this plaque can rupture off the arterial wall and form a clot which blocks blood from flowing to the heart muscle. When heart muscle is deprived of blood, it dies. This is a heart attack.  Often this occurs before the plaque has caused any symptoms. It’s literally a silent killer.</p><p>Plaque surreptitiously develops in our arteries as we age.  For some it may be very little, but for others it can be substantial. At our center, we do a comprehensive analysis of your blood and your genes to determine if you are at risk of developing atherosclerosis. We also do tests which can literally visualize the amount of plaque that currently exists in your arteries.  Through this testing we can establish the stage of your atherosclerosis. This staging is a very reliable way to predict your chance of a future heart attack. The best part of this analysis is that once we figure out your risk, we can recommend a variety of treatment modalities to substantially reduce or even eliminate the possibility of you having a heart attack.</p><p>So be pro-active. Come on in and let us test you for early heart disease.</p>"
 			}
 		},
 		{
 			"name" : "Alzheimer's Prevention",
 			"img" : "happy-patient-checkup.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
-			"path" : "cardiac-evalaution-and-prevention",
-			"heroText" : "Living with chronic anxiety disrupts one's quality of life. Dr. Samuel Lee specializes in treating anxiety through natural healing techniques in patients throughout Los Angeles from his practice in Playa Del Rey, California.",
+			"path" : "alzheimers-prevention-program",
+			"heroText" : "",
 			"questions" : [
 				{
 					"question" : "How does Dr. Lee treat anxiety?",

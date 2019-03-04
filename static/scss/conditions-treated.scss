@@ -112,13 +112,14 @@
 
 .condiiton-physician-profile{
     position: absolute;
-    top: -60px;
+    top: -90px;
     right: 50%;
     transform: translateX(50%);
     margin-right: 10px;
     vertical-align: sub;
-    height: 120px;
-    width: 120px;
+    height: 180px;
+    width: 180px;
+    margin: 0px;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 50%;
@@ -129,5 +130,22 @@
 
 .condition-doctor-message{
     line-height: 80px !important;
-    
+}
+
+.italic-message{
+    text-align: center;
+    width: 100%;
+    padding: 20px 0;
+    margin-top: 30px;
+    display: inline-block;
+    @media(max-width:480px){
+        margin-top: 60px
+    }
+}
+
+
+.title-center{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
 }

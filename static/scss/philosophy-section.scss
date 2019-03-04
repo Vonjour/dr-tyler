@@ -41,6 +41,24 @@
     }
 }
 
+
+.happy-patient-dr-tyle-patient{
+    float: right;
+    width: 100%;
+    max-width: 500px;
+    height: 532px;
+    background : url('~static/images/profile/dr_tyler_patient.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    z-index: 2;
+    @media(max-width:780px){
+        height: 451px;
+    }
+}
+
+
 .happy-patient-yellow-blob{
     position: absolute;
     top: -90px;

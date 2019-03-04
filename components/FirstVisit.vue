@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12">
                     <div class="condition-content">
-                        <h2 class="featured-content-header centered">Visiting My Practice</h2>
-                        <p class="content-description centered">I work directly with patients in my Los Angeles based private practice.</p>
+                        <h2 class="featured-content-header centered">Visiting Our Practice</h2>
+                        <p class="content-description centered">Dr. Tyler and his wellness team work directly with patients in their Wellness Center in Santa Monica, CA.</p>
                     </div>
                 </div>
             </div>
@@ -13,16 +13,13 @@
             <div class="row mt-100">
                 <div class="col-xs-12 col-sm-6">
                     <h2 class="featured-content-header">What can I expect on my first visit?</h2>
-                    <p class="content-description">Prior to our first visit, we can connect on the phone for a brief 5-10 minute conversation to ensure that we are a good fit to work together. You may also fill out an initial intake form and send it back to me so we can save time for our actual visit, and I can have an idea of your medical history prior to meeting</p>
-                    <p class="content-description">During our first visit, I will strive to be completely present with you. This means, I will not be typing and you will have my undivided attention and care.</p>
-                    <p class="content-description">We may utilize breath work to arrive in a relaxed and present state of being.</p>
-                    <p class="content-description">We will then proceed to engage in open and honest dialogue and everything we speak about will remain confidential.</p>
-                    <p class="content-description">We will explore your physical, emotional, mental, and spiritual health and examine areas of strength, and areas that we may want to bring into balance. We will discuss symptoms, without placing you into a box of a diagnosis. When we feel there is a mutual understanding of the desired outcome of treatment we will formulate a realistic, specific treatment plan geared towards eradicating symptoms by addressing the root cause. We will ensure that you have the adequate knowledge, tools, medication (if necessary), supplements, and support to make progress towards your goal of becoming the best version of yourself.</p>
+                    <p class="content-description">When a patient first visits the LA Preventative Medicine Clinic, our team will do a thorough medical examination and comprehensive genetic analysis and screen for the most relevant biomarkers. Patients can expect to spend more than an hour with Dr. Tyler and his team in this initial visit.</p>
+                    <a href="/contact" class="purple-button oval mt-32">Book You Diagnostic Exam</a>
                 </div>
                 <div class="col-xs-12 col-sm-6">
                         <div class="happy-patient-wrapper">
-                            <div class="happy-patient-pink"></div> 
-                            <img src="~static/images/blob-yellow.png" class="happy-patient-yellow-blob"> 
+                            <div class="happy-patient-dr-tyle-patient"></div> 
+                            <img src="~static/images/blob-yellow.png" class="happy-patient-yellow-blob" style="z-index:1"> 
                             <img src="~static/images/blob-green.png" class="happy-patient-green-blob">
                         </div>
 
