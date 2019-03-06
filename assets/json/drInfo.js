@@ -1,7 +1,7 @@
 "use strict";
 const drInfo = {
 	"baseUrl" : "https://localhost:3000/",
-	"blogProfile" : "dr-lee-blog.jpg",
+	"blogProfile" : "dr-tyler-main.jpg",
 	"faqs" : [{
 		"question" : "Does the Los Angeles Preventative Medicine Clinic accept insurance?",
 		"answer" : "<p>The Los Angeles Preventative Medicine CLinic does not bill insurance. However, if you have a PPO insurance plan you may be able to get a portion of your fees reimbursed from your insurance company (see below).</p><p>In order for our clinic to provide the most effective care I can, we operate outside of the insurance system. We do this because insurance companies incentivize health care providers to have short visits that don't allow physicians to do thorough examinations of a patients case, and have treatment guidelines based on this flawed system. This does a disservice to patients.</p><p>While we do not bill insurance, we can provide you with a statement that you can submit to a PPO insurance plan. To determine if you coverage through your insurance carrier, the first thing you should do is call them. Some helpful questions you can ask your insurance carrier:<ul><li>What are my preventative care health benefits?</li><li>What is the coverage amount per treatment?</li><ul></p>"

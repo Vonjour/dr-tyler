@@ -39,7 +39,7 @@
                             </social-sharing>
                         </div>
                         <div class="post-author-info float-left">
-                            <div class="logo-image-post" :style="{'background-image': 'url(' + require('~/static/images/profile/dr-lee-blog.jpg') + ')'}"></div>
+                            <div class="logo-image-post" :style="{'background-image': 'url(' + require('~/static/images/profile/dr_tyler_main.jpg') + ')'}"></div>
                             <span class="content-description vertical-enter-byline">By {{video_content.author}}</span>
                         </div>
                     </div>
