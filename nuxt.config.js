@@ -30,8 +30,12 @@ module.exports = {
 
   modules: [
     // provide path to the file with resources
-    'bootstrap-vue/nuxt', '@nuxtjs/dotenv', '@nuxtjs/google-analytics'
+    'bootstrap-vue/nuxt', '@nuxtjs/dotenv', '@nuxtjs/google-analytics', 'nuxt-sass-resources-loader', ],
+  
+  sassResources: [
+      '@/styles.scss'
   ],
+
 
   'google-analytics': {
     id: 'UA-133451612-1'

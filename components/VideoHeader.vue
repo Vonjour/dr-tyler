@@ -10,11 +10,11 @@
         <div class="video-section-container" v-for="video in videos" :key="video">
             <div class="row">
                 <div class="col-sm-6 col-xs-12 centered">
-                    <!--<div class="video-thumbnail" :style="{'background-image': 'url(' + require('../static/images' + video.image_path) + ')'}">
+                    <div class="video-thumbnail" :style="{'background-image': 'url(' + require('../static/images' + video.image_path) + ')'}">
                         <div class="you-tube-halftone">
 
                         </div>
-                    </div>-->
+                    </div> 
                 
                 </div>
                 <div class="col-sm-6 col-xs-12 centered rel">
