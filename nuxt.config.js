@@ -73,7 +73,7 @@ module.exports = {
         }
       })*/
       console.log(conditions);
-      return[...articles, ...conditions, ...videos]
+      return[...articles, ...conditions]
     } 
   },
   /*
