@@ -12,7 +12,7 @@ const drInfo = {
 	},
 	{
 		"question" : "What is funcitonal medicine?",
-		"answer" : "<p>Functional Medicine determines how and why illness occurs and restores health by addressing the root causes of disease for each individual. At the Los Angeles Preventative Medicine Center, It requires a detailed understanding of each patient’s genetic, biochemical, and lifestyle factors and leverages that data to direct personalized treatment plans that lead to improved patient outcomes.</p>"
+		"answer" : "<p> Functional Medicine determines how and why illness occurs and restores health by addressing the root causes of disease for each individual. At the Los Angeles Preventative Medicine Center, It requires a detailed understanding of each patient’s genetic, biochemical, and lifestyle factors and leverages that data to direct personalized treatment plans that lead to improved patient outcomes.</p>"
 	},
 	{
 		"question" : "Can Dr. Tyler be my primary care physician?",
