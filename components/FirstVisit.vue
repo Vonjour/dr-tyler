@@ -37,13 +37,13 @@
                     <div class="pricing-wrap-medium">
                         <div class="pricing-grid">
                             <div class="pricing-grid-items">
-                                <p class="pricing-copy pricing-title">Initial Consult (60-90 minutes) $400</p> <p class="pricing-copy">Starting with our first session, we’ll clarify what your specific needs are and how to address them.</p>
+                                <p class="pricing-copy pricing-title">Initial Consult (60-90 minutes) $995</p> <p class="pricing-copy">Starting with our first session, our team will do a thorough physical examination, and do a complete a host of preventative care diagnostic tests.</p>
                             </div>
                             <div class="pricing-grid-items">
-                                <p class="pricing-copy pricing-title">Follow Up (30 minutes) $200</p> <p class="pricing-copy">I work with you directly to put you on a path to sustained wellbeing.</p>
+                                <p class="pricing-copy pricing-title">Review (60 minutes) $499</p> <p class="pricing-copy">Our team will analyze your diagnostic results, and present an individualized treatment plan.</p>
                             </div>
                             <div class="pricing-grid-items pricing-end">
-                                <p class="pricing-copy pricing-title">15-Minute Follow Up — As varies</p> <p class="pricing-copy">There may also be occasion for a brief phone follow up.</p>
+                                <p class="pricing-copy pricing-title">Follow Up — As varies $250</p> <p class="pricing-copy">Our team will continue to monitor your biomarkers, and work with you on fine tuning your treatment plan.</p>
                             </div>
                         </div>
                     </div>

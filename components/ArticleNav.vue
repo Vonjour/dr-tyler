@@ -7,15 +7,13 @@
                         <img class="text-logo" src="../static/images/zen-patient-icon.svg"/>
                     </a>
                     <a class="blog-link" href="/">
-                        <span class="blog-link-text">Dr. Samuel Lee</span>
+                        <span class="blog-link-text">LA Preventative Medicine Center</span>
                     </a>
                 </div>
                 <div class="float-right link-section">
                     <ul class="nav-list">
                         <li class="nav-item">
-                            <a class="link" href="/my-practice">
-                                My Practice
-                            </a>
+                            
                         </li>
                         <li class="nav-item">
                             <a class="link" href="/blog">
@@ -24,7 +22,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="link" href="/contact">
-                                Contact Dr. Lee
+                                Contact Dr. Tyler
                             </a>
                         </li>
                     </ul>
@@ -37,9 +35,9 @@
             </div>
         </nav>
         <div class="dropdown-mobile" v-if="mobile_header">
-            <a class="mobile-link link" href="/my-practice">My Practice</a>
+            
             <a class="mobile-link link" href="/blog">Blog</a>
-            <a class="mobile-link link" href="/contact">Contact</a>
+            <a class="mobile-link link" href="/contact">Contact Dr. Tyler</a>
         </div>
     </div>
 

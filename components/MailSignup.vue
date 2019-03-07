@@ -3,11 +3,11 @@
         <div class="footer-signup">
             <div class="row">
                 <div class="col-sm-6 col-xs-12">
-                    <p class="brand-summary article-tile-description">Dr. Lee is a certified holistic psychiatrist that teaches a spiritual based mental health discipline. He focuses on natural healing techniques that promote the body's innate ability to heal itself. Through an emphasis on breathwork, and other natural healing techniques Dr. Lee helps his patients feel empowered to overcome their programming, conditioning, and traumas so that they can realize the greatness that lies within themselves.</p>
+                    <p class="brand-summary article-tile-description">Dr. Tyler is a preventative medicine specialist based in Santa Monica, CA. In his practice, Dr. Tyler explores data-driven treatment approaches to increase healthspan, and well-being, and optimize cognitive and physical health.</p>
                 </div>
                 <div class="col-sm-6 col-xs-12">
                     <div class="mail-container">
-                        <h3 class="stay-updated-section">Stay updated with Dr. Lee by signing up for his holistic psychiatry newsletter</h3>
+                        <h3 class="stay-updated-section">Stay updated with Dr. Tyler by signing up for his preventative medicine newsletter</h3>
                         <form name="signup" @submit.prevent="joinList">
                             <div class="input-submit-group">
                                 <input type="email" class="input-email" v-model="email" placeholder="Your email address" /> 

@@ -119,7 +119,7 @@ const drInfo = {
 			"steps" : [
 				{
 					"title" : "Advanced Diagnostic Testing",
-					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine your risk for Alzheimer's Disease. While there is no one clear genetic test that can clearly predict if a person will develop Alzheimer's Disease, we use these results to talior therapies for our patients.",
+					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine your risk for Alzheimer's Disease. While there is no one clear genetic test that can clearly predict if a person will develop Alzheimer's Disease, we use these results to talior customized therapies for our patients.",
 					"icon" : "data.svg",
 					"checklist" : ["IRS-1", "PET cerebral glucose metabolism (CMRglc)", " PiB-PET deposition", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"],
 					"checklist_title" : "Advanced Testing",
@@ -193,7 +193,7 @@ const drInfo = {
 				"content" : "<p>Alzheimer's disease (AD) starts in the brain 20 to 30 years before the onset of symptoms, giving physicians ample time to intervene in an individualized fashion for those at risk. There is no 'magic pill' or 'magic cure' for Alzheimer's Disease treatment or prevention; however, combining a variety of strategies based on strong science and safety may yield the best chance for benefit.</p><p>Our approach is based on a collaborative care model for Alzheimer's disease, while being firmly grounded in the latest scientific evidence-based therapies. This integrated approach to care aims to provide the most comprehensive therapies for patients with Alzheimer's disease, mild cognitive impairment due to Alzheimer's, 'preclinical' Alzheimer's, and patients who are at risk for the disease.</p><p>We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient. These principles (also referred to as 'pharmacogenomics' and 'nutrigenomics') form the core of our approach. We emphasize lifestyle and nutritional approaches and collect data to help further the scientific study of the effects of dietary modifications on brain health.</p>"
 			}
 		},
-		/*
+		
 		{
  			"name" : "Functional Medicine—Performance and Health Optimization",
 			"img" : "happy-patient-weight.jpg",
@@ -214,16 +214,16 @@ const drInfo = {
 					"answer" : "<p>Generalized Anxiety Disorder is categorized by feelings of anxiousness in various situations and stresses in everyday life. Worry exists even when there is no obvious reason for it and people can overly stress about an otherwise resolvable issue. Getting through the day is even difficult.</p> <p>Panic Disorder can be hereditary and is characterized by sudden, repetitive attacks of extreme fear and/or panic, commonly referred to as a panic attack. Panic attacks are often described as feeling like a heart attack and the person ends up being very fearful of the attacks and worrying about when the next one will happen. It can cause many difficulties in life because the person will avoid situations he or she associates with the attacks.</p> <p>Social phobia can also be hereditary. Those with social phobia experience fear in relation to social situations and interaction. Interacting with people, even speaking, can be terrifying. Patients with social phobia often have trouble making friends and may even have some type of physical reaction when interacting with others.</p>"
 				},
 			]
-		},*/
+		},
 ],	
 	"additional_services" : ["Couples Counseling", "School and/or Work Issues", "Acculturation Issues", "Spiritual/religious issues", "Psychedelic Integration/Processing", "Sports Psychology"],
 
 	"location" : {
 		"name" : "The LA Preventative Medicine Clinic",
-		"address" : "3831 Hughes Avenue",
-		"address_2" : "Suite #604",
-		"city_state" : "Culver City, CA 90232",
-		"phone" : "(310) 876-1027 ",
+		"address" : "2811 Wilshire Blvd",
+		"address_2" : "Suite #800",
+		"city_state" : "Santa Monica, CA 90403",
+		"phone" : "(310) 828-0733 ",
 		"email" : "aaguirre@theandracenter.com",
 		"scheduler" : "https://zenpatient.com/schedule/dr-Lee"
 	},

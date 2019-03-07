@@ -8,7 +8,7 @@
         <credentials></credentials>
         <first-visit></first-visit>
         <faq></faq>
-        <visit-practice v-bind:title="'Make An Appointment'" v-bind:button="'Contact Dr. Lee'" v-bind:href="'/my-practice'"></visit-practice>
+        <visit-practice v-bind:title="'Make An Appointment'" v-bind:button="'Contact Dr. Tyler'" v-bind:href="'/my-practice'"></visit-practice>
         <mail-signup></mail-signup> 
         <Footer/>
     </div>
