@@ -223,7 +223,7 @@ const drInfo = {
 					"title" : "Advanced Diagnostic Testing",
 					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine to provide a deeper understanding of our patients health conditions. We use these results to talior therapies to prevent chronic disease, and help them achieve optimal health results.",
 					"icon" : "data.svg",
-					"checklist" : ["Prevent Test-GeneID", "Genomic Plus Profile", "CardioIon Profile", "NutraEval", "MTHFR", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"],
+					"checklist" : ["Prevent Test-GeneID", "Genomic Plus Profile", "CardioIon Profile", "NutraEval", "MTHFR", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"] ,
 					"checklist_title" : "Advanced Testing",
 				},
 				{ 
