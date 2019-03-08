@@ -1,0 +1,71 @@
+.profile-image-box{
+    position: relative;
+    z-index: 2;
+    padding-right: 30px;
+    @media(max-width: 480px){
+        margin-bottom: 70px;
+        padding-right: 0px;
+    }
+}
+
+.absolute-cover{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.physician-profile{
+    box-shadow: 0 0 40px rgba(0,0,0,.1);
+    border-radius : 5px;
+    border-color: #fff;  
+    border-width: 10px;
+    width: 100%;
+    padding: 30px 20px;
+    position: relative;
+    z-index: 2;
+}
+
+.profile-image-wrapper{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 2;
+    background: #fff;
+    @media(max-width:480px){
+        margin-top: 80px;
+    }
+}
+
+.physician-profile-image{
+    width: 100%;
+}   
+
+.orange-blob{
+    position: absolute;
+    left: -27%;
+    top: 50%;
+    transform: translateY(-50%) rotate(270deg);
+    @media(max-width: 1020px){
+        left: -22%;
+        width: 280px;
+    }
+    @media(max-width: 780px){
+        width: 236px;
+    }
+}
+
+.hero-header{
+    color: #323648;
+    @extend %tiempos-semibold !optional;
+    font-size: 48px;
+    margin-top: 50px;
+    @media(max-width: 780px){
+        font-size: 38px;
+    }
+}
+
+.header-explainer{
+    
+}

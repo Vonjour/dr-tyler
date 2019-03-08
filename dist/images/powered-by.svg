@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="327px" height="57px" viewBox="0 0 327 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="bold">
+        <g id="Group" transform="translate(-55.000000, -4.000000)">
+            <text id="POWERED-BY" font-family="AvertaStd-Bold, Averta Std" font-size="18" letter-spacing="2.52999997" fill="#BEBEBE">
+                <tspan x="57.3153126" y="18">POWERED B</tspan>
+                <tspan x="186.699312" y="18">Y</tspan>
+            </text>
+            <text id="ZenPatient.com" font-family="TiemposHeadline-Bold, Tiempos Headline" font-size="39" letter-spacing="2.1099999" fill="#2C2F3F">
+                <tspan x="55.4470007" y="60">ZenPatient.co</tspan>
+                <tspan x="344.566999" y="60">m</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,151 @@
+.conditions-content-section{ width: 100%; float: left; padding-left: 30px;
+	
+}
+
+.conditions-content-wrapper{
+    padding: 110px 100px;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: -webkit-paged-x;
+    @media only screen and (max-width: 790px){
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 75px;
+    }
+}
+
+
+.fixed-content-width{
+    max-width: 1020px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.fixed-content-yellow-tracks{
+    position: absolute;
+    top: -100px;
+    left: -120px;
+    width: 175px;
+    @media(max-width: 480px){
+        top: -50px;
+        left: -78px;
+        width: 138px;
+    }
+}
+
+.fixed-content-blue-blob{
+    position: absolute;
+    bottom: -100px;
+    right: -254px;
+    transform: rotate(270deg);
+    
+}
+
+.conditions-and-services { font-size: 38px !important; }
+
+
+.condition-cell{ height: 300px; background: #eee; text-align: center; text-align: center; background-repeat: no-repeat; background-size: cover; background-position: center center;  position: relative; box-shadow: 0 10px 20px 4px rgba(0, 0, 0, 0.06); margin-top: 30px; -webkit-transition: .2s ease all; cursor: pointer;
+	
+}
+
+
+.condition-cell:hover{ box-shadow: 0 10px 20px 4px rgba(0, 0, 0, 0.16);  
+		
+}
+
+.condition-cell .condition-name-wrapper{ width: 100%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); -webkit-transform: translate(-50%, -50%);
+    
+}
+
+.condition-cell .condition-name-wrapper .condition-name{ @extend %circular-bold !optional; color: #fff; font-size: 18px; letter-spacing: 1px; width: 100%; padding: 0 10px;
+			
+}
+
+.condition-cell .condition-name-wrapper a{ color: #fff !important; margin-top: 30px !important; text-decoration: none !important; display: block; }
+
+.condition-title{ @extend %cereal-medium !optional; color: #484848; margin-top: 7px; margin-bottom: 20px; padding-top: 0px; font-size: 17px; -webkit-font-smoothing: antialiased;
+	
+}
+
+.condition-content-p { font-family: 'Avenir Next'; color: #484848; font-size: 16px;
+	
+}
+
+.condition-link {
+	
+}
+
+.condition-link-text { @extend %cereal-book !optional; color: #008489; font-size: 17px; cursor: pointer;
+	
+}
+
+.condition-link-text img { vertical-align: inherit; margin-left: 3px; width: 15px;
+	
+}
+
+
+.mobile-condition-description { font-family: 'Avenir Next' !important; color: #484848 !important; font-size: 16px !important; margin-top: 20px;
+	
+}
+
+.condition-content{
+    max-width: 890px;
+    margin: 0 auto 30px;
+}
+
+.condition-question{
+    margin-top: 40px;
+}
+
+
+.condition-white-wrapper{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+
+.results-profile-section{
+   padding: 15px 0px;
+   display: inline-block;
+   text-align: left; 
+}
+
+.condiiton-physician-profile{
+    position: absolute;
+    top: -90px;
+    right: 50%;
+    transform: translateX(50%);
+    margin-right: 10px;
+    vertical-align: sub;
+    height: 180px;
+    width: 180px;
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    display: inline-block;
+    background-image: url('~static/images/profile/dr_tyler_white_coat.jpg');
+}
+
+.condition-doctor-message{
+    line-height: 80px !important;
+}
+
+.italic-message{
+    text-align: center;
+    width: 100%;
+    padding: 20px 0;
+    margin-top: 30px;
+    display: inline-block;
+    @media(max-width:480px){
+        margin-top: 60px
+    }
+}
+
+
+.title-center{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}

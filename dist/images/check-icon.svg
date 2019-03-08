@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>check-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dr-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check-icon" transform="translate(1.000000, 1.000000)">
+            <g id="Group">
+                <g id="a-link" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+                    <path d="M15,30 C23.284,30 30,23.284 30,15 C30,6.716 23.284,0 15,0 C6.716,0 0,6.716 0,15 C0,23.284 6.716,30 15,30 Z" id="a"></path>
+                </g>
+                <path d="M16,31.744 C24.695,31.744 31.744,24.695 31.744,16 C31.744,7.305 24.695,0.256 16,0.256 C7.305,0.256 0.256,7.305 0.256,16 C0.256,24.695 7.305,31.744 16,31.744 Z" id="Shape" stroke="#008489" stroke-width="1.487"></path>
+            </g>
+            <polyline id="Shape" stroke="#008489" stroke-width="1.487" stroke-linecap="round" stroke-linejoin="round" points="22 13 15 19.5 12 16"></polyline>
+        </g>
+    </g>
+</svg>

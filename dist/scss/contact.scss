@@ -1,0 +1,116 @@
+.info-section{ width: 100%; padding: 90px 50px; border-bottom: 1px solid #eaeaea;
+	@media only screen and (max-width: 780px){ padding-left: 5px; padding-right: 5px;
+		
+	}
+	
+	@media only screen and (max-width: 480px){ padding-top:	30px; padding-bottom: 30px;
+			
+	}
+}
+
+.info-section-text-header-left{ color: #484848; font-size: 38px; line-height: 52px; width: 100%; @extend %circular-bold !optional; margin-bottom: 40px; margin-top: 20px;
+	@media only screen and (max-width: 1056px){ margin-bottom: 30px;
+		
+	}
+	
+	@media only screen and (max-width: 480px){ font-size: 34px; line-height: 48px;
+		
+	}
+	
+}
+
+
+
+//extra padding on the left treatment section
+.extra-padding{ padding-left: 90px; padding-right: 90px; 
+	
+	@media only screen and (max-width: 1056px){
+		padding-left: 70px; padding-right: 70px;
+	}
+	
+	
+	//for ipad
+	@media only screen and (max-width: 780px){
+		padding-left: 30px; padding-right: 30px;
+	}
+}
+
+
+
+.inquiry-type{ @extend %cereal-medium !optional; word-wrap: break-word !important; font-size: 18px !important; line-height: 26px !important; color: #484848; margin-top: 0px;
+	
+}
+
+.inquiry-wrapper{ width: 100%;
+	@media only screen and (max-width: 480px){ padding-top: 80px;
+			
+	}
+}
+
+.inquiry-type-description { @extend %cereal-book !optional; font-size: 16px !important; line-height: 22px !important;
+	
+}
+
+.mobile-contact-header{
+	@media only screen and (max-width: 480px){ font-size: 24px !important; line-height: 36px !important;
+			
+	}
+}
+
+.no-padding{
+	@media only screen and (max-width: 480px){ margin-left: -15px !important; margin-right: -15px !important;
+			
+	}
+}
+
+.mobile-contactus-padding{
+	@media only screen and (max-width: 480px){ padding-left: 15px !important; padding-right: 5px !important;
+			
+	}
+}
+
+.inquiry-subtext{ margin-bottom: 30px;
+	
+}
+
+.inquiry-type-button{ -webkit-appearance : none; background: transparent; cursor: pointer !important; margin: 0px; user-select: auto !important; width: 100%; text-align: center !important; padding: 24px 16px 16px 16px !important; border: 1px !important; border-style: solid !important; border-radius: 4px !important; border-color: #D8D8D8 !important; height: 144px !important; overflow: hidden !important
+	
+}
+
+.calendar-icon{ display: inline-block; height: 36px; width: 36px;}
+
+.message-icon{ display: inline-block; height: 32px; width: 32px; }
+
+
+
+.inquiry-type-button-label { @extend %circular-medium !optional; font-size: 14px; color: #484848; line-height: 16.8px; padding: 10px 0px;
+	
+}
+
+.form-label{ font-weight: inherit; display: block !important; font-size: 16px; @extend %cereal-medium !optional; color: #484848;
+	@media only screen and (max-width: 480px){ font-size: 15px;
+			
+	}
+}
+
+
+.text-input{     border: 1px solid #D8D8D8; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; background-color: #fff; color: #484848; padding: 8px 10px; width: 75%; @extend %cereal-book !optional; font-size: 16px;
+	
+}
+
+.checkbox-label{ @extend %cereal-book !optional; font-weight: inherit; display: inline; line-height: 26px; color: #484848; font-size: 14px; }
+
+.back-arrow{ cursor: pointer; color:#4850b6; @extend %cereal-medium !optional; font-size: 14px; line-height: 18px;
+	span{ vertical-align: middle; margin-right: 10px;}
+}
+
+.back-arrow-rotate{
+	transform : rotate(180deg);
+	vertical-align: bottom;
+}
+
+.booking-button-contact-section{ border-radius: 4px; background-color: #4850b6; color: #fff; font-size: 14px; letter-spacing: .5px; text-align: center; padding: 14px 20px; -webkit-font-smoothing: antialiased; float: left; @extend %cereal-bold !optional; 
+	@media only screen and (max-width: 480px){ padding: 11px 14px;
+		
+	}
+}

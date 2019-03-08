@@ -1,0 +1,52 @@
+.condition-step-wrapper{
+    width: 100%;
+    display: inline-block;
+    padding: 40px 0;
+    margin-bottom: 50px;
+}
+
+.step-title{
+    font-family: 'Averta Semibold';
+    font-size: 22px;
+    color: #323648;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.icon-cell{
+    height: 60px;
+    width : 60px;
+    display: none;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.list-grid-items{
+    padding: 12px;
+    border-bottom: 1px solid #ebebeb;
+    position: relative;
+}
+
+.list-grid-items:last-child{
+    border-bottom: none;
+}
+
+.list-grid-items::after{
+    display: block;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url('~static/images/blue-checkmark.svg');
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    content: '';
+    top: 50%;
+    right: 1.5rem;
+    transform: translateY(-50%);
+}
+
+.vertical-center{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}

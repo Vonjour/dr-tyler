@@ -1,0 +1,25 @@
+.visit-practice-container{
+    background-image: url(~assets/bg_halftone_black_20p.png);
+    background-size: 1300px 700px;
+    background-repeat: repeat;
+    background-color: #3f46ad;
+    display: flex;
+    align-items: center;
+    height: 370px;
+    text-align: center;
+}
+
+.visit-practice-header{
+    @extend %tiempos-semibold !optional;
+    width: 100%;
+    color: #fff;
+    font-size: 32px;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    margin-bottom: 32px;
+}
+
+.v-content{
+    margin: 0 auto;
+    padding: 0 4vw;
+}

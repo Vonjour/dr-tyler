@@ -1,0 +1,112 @@
+.faq-wrapper{
+    width: 100%;
+}
+
+.faq-container{
+    float: left;
+    border-radius: 3px;
+    margin-bottom: 16px;
+    border: 1px solid #ebebeb;
+    width: 100%;
+    position: relative;
+}
+
+.shownFAQ{
+    border-bottom: none !important;
+    border-bottom-right-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    margin-bottom: -1px;
+}
+
+.faq-container-answer{
+    float: left;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border: 1px solid #ebebeb;
+    width: 100%;
+    border-top: none;
+    padding: 16px;
+    margin-bottom: 10px;
+}
+
+
+
+.faq-container-answer p {
+    @extend %averta !optional;
+    font-size: 14px;
+    color: #4f4f4f;
+}
+
+.faq-container-answer ul {
+    @extend %averta !optional;
+    font-size: 14px;
+    color: #4f4f4f;
+}
+
+
+.faq-header{
+    font-family: 'Averta Semibold';
+    font-size: 18px;
+    color: #323648;
+    margin-bottom: 20px;
+}
+
+
+.faq-question{
+    max-width: 78%;
+    padding: 8px;
+    margin: 8px;
+    text-align: left;
+    @extend %averta !optional;
+    color: #4f4f4f;
+    font-size: 16px;
+}
+
+.section-open-icon{
+    transition: transform .25s,-webkit-transform .25s;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    display: block;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    background: #e7e7e7;
+    position: absolute;
+    top:50%;
+    right: 0;
+    -webkit-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+.open{
+    -webkit-transform: translate(-50%, -50%) rotate(405deg);
+    transform: translate(-50%, -50%) rotate(405deg);
+}
+
+.section-open-icon:before{
+    content: '';
+    left: 50%;
+    top: 50%;
+    width: 2px;
+    height: 50%;
+    background-color: #77bbae;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+
+.section-open-icon:after{
+    content: '';
+    left: 50%;
+    top: 50%;
+    height: 2px;
+    width: 50%;
+    background-color: #b4ded6;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+
