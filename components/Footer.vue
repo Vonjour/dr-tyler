@@ -3,7 +3,7 @@
         <div class="footer-container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
-                    <a class="map-container" v-bind:class="{'box-shadow-wrap' : open_map }">
+                    <div class="map-container" v-bind:class="{'box-shadow-wrap' : open_map }">
                         <div class="map-header">
                             <h3 class="map-location-header">Santa Monica Office</h3>
                             <p class="map-address">
@@ -18,7 +18,7 @@
                             <span>Get Directions</span>
                             <img src="~static/images/arrow-right.svg" class="arrow-direction-left"/>
                         </a>
-                    </a>
+                    </div>
                 </div>
                 <div class="col-xs-6 col-sm-2">
                     <p class="footer-list-header">Resources</p>
@@ -105,4 +105,6 @@ export default {
 }
 
 </script>
+
+
 
