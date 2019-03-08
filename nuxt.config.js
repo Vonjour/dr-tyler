@@ -30,11 +30,9 @@ module.exports = {
 
   modules: [
     // provide path to the file with resources
-    'bootstrap-vue/nuxt', '@nuxtjs/dotenv', '@nuxtjs/google-analytics', 'nuxt-sass-resources-loader', ],
-  
-  sassResources: [
-      '@/styles.scss'
+    'bootstrap-vue/nuxt', '@nuxtjs/dotenv', '@nuxtjs/google-analytics'
   ],
+  
 
 
   'google-analytics': {
@@ -76,7 +74,7 @@ module.exports = {
           payload: video
         }
       })*/
-      console.log(conditions);
+
       return[...articles, ...conditions]
     } 
   },
@@ -87,7 +85,7 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
-    /*extend (config, { isDev, isClient }) {
+    extend (config, { isDev, isClient }) {
       if (isDev && isClient) {
         config.module.rules.push({
           enforce: 'pre',
@@ -96,7 +94,7 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-    }*/
+    }
   }
 }
 

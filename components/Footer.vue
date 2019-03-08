@@ -76,7 +76,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12">
                     <a href="https://zenpatient.com/products/grow">
-                        <img src="@/static/images/powered-by.jpg" class="fr logo-footer"/>
+                        <img  src="@/static/images/powered-by.jpg" class="fr logo-footer"/>
                     </a>
                 </div>
             </div>
