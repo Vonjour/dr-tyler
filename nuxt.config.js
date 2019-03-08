@@ -26,16 +26,14 @@ module.exports = {
     ]
   },
 
-  plugins: ['~/plugins/vue-social-sharing', '~/plugins/contentful', '~/plugins/butter'],
+  plugins: ['~/plugins/vue-social-sharing'],
 
   modules: [
     // provide path to the file with resources
-    'bootstrap-vue/nuxt', '@nuxtjs/dotenv', '@nuxtjs/google-analytics'
+    'bootstrap-vue/nuxt', '@nuxtjs/dotenv', 
   ],
 
-  'google-analytics': {
-    id: 'UA-133451612-1'
-  },
+
 
   env: {
     baseUrl : baseUrl,
