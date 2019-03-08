@@ -42,7 +42,7 @@
                             <div class="pricing-grid-items">
                                 <p class="pricing-copy pricing-title">Review (60 minutes) $499</p> <p class="pricing-copy">Our team will analyze your diagnostic results, and present an individualized treatment plan.</p>
                             </div>
-                            <div class="pricing-grid-items pricing-end">
+                            <div  class="pricing-grid-items pricing-end">
                                 <p class="pricing-copy pricing-title">Follow Up — As varies $250</p> <p class="pricing-copy">Our team will continue to monitor your biomarkers, and work with you on fine tuning your treatment plan.</p>
                             </div>
                         </div>

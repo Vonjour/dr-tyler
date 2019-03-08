@@ -2,7 +2,7 @@
     <div>
         <article-nav></article-nav>
         <hero-practice  v-bind:h1="drInfo.location.name + ' ' + condition.name" v-bind:description="condition.heroText"></hero-practice>
-         <treatment-section v-bind:condition="condition"></treatment-section>
+        <treatment-section v-bind:condition="condition"></treatment-section>
         <philosophy-section></philosophy-section>
         <conditions-treated></conditions-treated>
         <credentials></credentials>
