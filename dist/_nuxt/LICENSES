@@ -1,42 +1,36 @@
 /*!
- * Vue.js v2.5.17
- * (c) 2014-2018 Evan You
+ * Vue.js v2.6.8
+ * (c) 2014-2019 Evan You
  * Released under the MIT License.
  */
 
 /**
- * vuex v3.0.1
- * (c) 2017 Evan You
+ * vuex v3.1.0
+ * (c) 2019 Evan You
  * @license MIT
  */
 
-/**
-  * vue-router v3.0.1
-  * (c) 2017 Evan You
+/*!
+  * vue-router v3.0.2
+  * (c) 2018 Evan You
   * @license MIT
   */
 
 /**
- * vue-meta v1.5.5
+ * vue-meta v1.5.8
  * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
  * @license MIT
  */
 
 /*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
-
-/*!
- * vue-no-ssr v1.0.0
- * (c) 2018-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
+	object-assign
+	(c) Sindre Sorhus
+	@license MIT
+	*/
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
- * @version 1.14.5
+ * @version 1.14.7
  * @license
  * Copyright (c) 2016 Federico Zivolo and contributors
  *
@@ -60,7 +54,13 @@ object-assign
  */
 
 /*!
- * vue-social-sharing v2.3.3 
- * (c) 2017 nicolasbeauvais
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-social-sharing v2.4.2 
+ * (c) 2019 nicolasbeauvais
  * Released under the MIT License.
  */
