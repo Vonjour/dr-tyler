@@ -30,9 +30,9 @@ module.exports = {
 
   modules: [
     // provide path to the file with resources
-    'bootstrap-vue/nuxt', '@nuxtjs/dotenv', 
+    'bootstrap-vue/nuxt', '@nuxtjs/dotenv',
   ],
-
+    
 
 
   env: {
