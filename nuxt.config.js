@@ -68,14 +68,14 @@ module.exports = {
           payload : condition
         }
       })
-      /*let videos = drInfo.videos.map((video) => {
+      let videos = drInfo.videos.map((video) => {
         return {
           route: '/videos/' + video.url_path,
           payload: video
         }
-      })*/
+      })
 
-      return[...articles, ...conditions]
+      return[...articles, ...conditions, ...videos]
     } 
   },
   /*
