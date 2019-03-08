@@ -7,7 +7,7 @@
                         <div class="profile-image-box">
                             <div class="profile-image-wrapper">
                                 <div class="physician-profile">    
-                                    <img src="~static/images/profile/dr_tyler_white_coat.png" class="physician-profile-image"/>
+                                    <img src="~static/images/profile/dr_tyler_white_coat.jpg" class="physician-profile-image"/>
                                 </div>
                             </div>
                             <img src="~static/images/blob-orange.png" class="orange-blob" />
