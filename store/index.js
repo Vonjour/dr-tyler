@@ -6,7 +6,6 @@ import API from '@/services/api/API';
 
 
 
-
 const createStore = () => {
     return new Vuex.Store({
       state: {
