@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="pricing-grid pricing-grid-extra-padding mt-80" style="position:relative;">
+            <div class="pricing-grid pricing-grid-extra-padding mt-80" style="position:relative;" v-if="condition.long_form.show">
                 <div class="condiiton-physician-profile"></div>
 
                 <div class="italic-message">    

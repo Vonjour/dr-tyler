@@ -72,7 +72,7 @@ const drInfo = {
 					"title" : "Advanced Diagnostic Testing",
 					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine if you are at risk of developing atherosclerosis. We also do tests which can literally visualize the amount of plaque that currently exists in your arteries.",
 					"icon" : "data.svg",
-					"checklist" : ["Electrocardiogram", "Echocardiogram", "Cardiac Stress Test", "Carotid Intima Media Test", "Coronary Calcium Score", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"],
+					"checklist" : ["Electrocardiogram", "Echocardiogram", "Cardiac Stress Test", "Carotid Intima Media Test", "Coronary Calcium Score", "Genomic Plus Profile", "CardioIon Profile", "NutraEval", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"],
 					"checklist_title" : "Advanced Testing",
 				},
 				{ 
@@ -91,6 +91,7 @@ const drInfo = {
 				}
 			],
 			"long_form" : {
+				"show" : true,
 				"title" : "The Importance of Early Heart Disease Detection",
 				"content" : "<p>Just about everyone knows someone who had a heart attack in their 40’s or early fifties.  Sadly, this first heart attack is often fatal. Here at the Los Angeles Preventative Medicine Center we are committed to making sure this will never happen to you.</p><p>The medical profession has long known that heart attacks are the leading cause of death for both men and women in the United States. And yet heart attacks can be prevented. You are probably wondering, ‘how can a preventable illness be the number one killer of Americans?’ The reason is simple. The process that leads to heart attacks is silent. By the time it ‘announces’ itself, it’s too late: you’ve just had a heart attack or are on the verge of having one. Let’s explore this.</p><p>The disease that leads to heart attacks is called atherosclerosis. Atherosclerosis is the condition in which a fatty substance called plaque develops in the walls of your heart arteries.  Under the wrong conditions, this plaque can rupture off the arterial wall and form a clot which blocks blood from flowing to the heart muscle. When heart muscle is deprived of blood, it dies. This is a heart attack.  Often this occurs before the plaque has caused any symptoms. It’s literally a silent killer.</p><p>Plaque surreptitiously develops in our arteries as we age.  For some it may be very little, but for others it can be substantial. At our center, we do a comprehensive analysis of your blood and your genes to determine if you are at risk of developing atherosclerosis. We also do tests which can literally visualize the amount of plaque that currently exists in your arteries.  Through this testing we can establish the stage of your atherosclerosis. This staging is a very reliable way to predict your chance of a future heart attack. The best part of this analysis is that once we figure out your risk, we can recommend a variety of treatment modalities to substantially reduce or even eliminate the possibility of you having a heart attack.</p><p>So be pro-active. Come on in and let us test you for early heart disease.</p>"
 			}
@@ -140,6 +141,7 @@ const drInfo = {
 				}
 			],
 			"long_form" : {
+				show: true,
 				"title" : "Lifestyle Intervention for Alzheimer's Prevention",
 				"content" : "<p>Alzheimer's disease (AD) starts in the brain 20 to 30 years before the onset of symptoms, giving physicians ample time to intervene in an individualized fashion for those at risk. There is no 'magic pill' or 'magic cure' for Alzheimer's Disease treatment or prevention; however, combining a variety of strategies based on strong science and safety may yield the best chance for benefit.</p><p>Our approach is based on a collaborative care model for Alzheimer's disease, while being firmly grounded in the latest scientific evidence-based therapies. This integrated approach to care aims to provide the most comprehensive therapies for patients with Alzheimer's disease, mild cognitive impairment due to Alzheimer's, 'preclinical' Alzheimer's, and patients who are at risk for the disease.</p><p>We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient. These principles (also referred to as 'pharmacogenomics' and 'nutrigenomics') form the core of our approach. We emphasize lifestyle and nutritional approaches and collect data to help further the scientific study of the effects of dietary modifications on brain health.</p>"
 			}
@@ -164,13 +166,13 @@ const drInfo = {
 					"answer" : "<p>Generalized Anxiety Disorder is categorized by feelings of anxiousness in various situations and stresses in everyday life. Worry exists even when there is no obvious reason for it and people can overly stress about an otherwise resolvable issue. Getting through the day is even difficult.</p> <p>Panic Disorder can be hereditary and is characterized by sudden, repetitive attacks of extreme fear and/or panic, commonly referred to as a panic attack. Panic attacks are often described as feeling like a heart attack and the person ends up being very fearful of the attacks and worrying about when the next one will happen. It can cause many difficulties in life because the person will avoid situations he or she associates with the attacks.</p> <p>Social phobia can also be hereditary. Those with social phobia experience fear in relation to social situations and interaction. Interacting with people, even speaking, can be terrifying. Patients with social phobia often have trouble making friends and may even have some type of physical reaction when interacting with others.</p>"
 				},
 			],
-			"program_description" : "Alzheimer's disease (AD) starts in the brain 20 to 30 years before the onset of symptoms, giving physicians ample time to intervene in an individualized fashion for those at risk. We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient. This integrated approach to care aims to provide the most comprehensive therapies for patients with Alzheimer's disease, mild cognitive impairment due to Alzheimer's, 'preclinical' Alzheimer's, and patients who are at risk for the disease.",
+			"program_description" : "Our clinic is focused on helping patients create lifestyle interventions to ultimately prevent the occurence of cancer. We focus on some of the metabolic quirks of cancer cells, connection to inflammation, and its co-occurrence with high insulin levels. In combination with thorough genetic, and biomarker detection tools, and metabolic and lifestyle modifications our team works with our patients to reduce odds of ever getting a cancer diagnosis.",
 			"steps" : [
 				{
 					"title" : "Advanced Diagnostic Testing",
-					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine your risk for Alzheimer's Disease. While there is no one clear genetic test that can clearly predict if a person will develop Alzheimer's Disease, we use these results to talior therapies for our patients.",
+					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine your risk for various forms of cancer. While there is no one clear genetic test that can clearly predict if a person will develop cancer, we use these results to talior therapies for our patients to reduce their susceptibility of developing a form of cancer.",
 					"icon" : "data.svg",
-					"checklist" : ["IRS-1", "PET cerebral glucose metabolism (CMRglc)", " PiB-PET deposition", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"],
+					"checklist" : ["Prevent Test-GeneID", "Genomic Plus Profile", "CardioIon Profile", "NutraEval", "MTHFR", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"],
 					"checklist_title" : "Advanced Testing",
 				},
 				{ 
@@ -189,8 +191,9 @@ const drInfo = {
 				}
 			],
 			"long_form" : {
-				"title" : "Lifestyle Intervention for Alzheimer's Prevention",
-				"content" : "<p>Alzheimer's disease (AD) starts in the brain 20 to 30 years before the onset of symptoms, giving physicians ample time to intervene in an individualized fashion for those at risk. There is no 'magic pill' or 'magic cure' for Alzheimer's Disease treatment or prevention; however, combining a variety of strategies based on strong science and safety may yield the best chance for benefit.</p><p>Our approach is based on a collaborative care model for Alzheimer's disease, while being firmly grounded in the latest scientific evidence-based therapies. This integrated approach to care aims to provide the most comprehensive therapies for patients with Alzheimer's disease, mild cognitive impairment due to Alzheimer's, 'preclinical' Alzheimer's, and patients who are at risk for the disease.</p><p>We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient. These principles (also referred to as 'pharmacogenomics' and 'nutrigenomics') form the core of our approach. We emphasize lifestyle and nutritional approaches and collect data to help further the scientific study of the effects of dietary modifications on brain health.</p>"
+				"show" : false,
+				"title" : "",
+				"content" : ""
 			}
 		},
 		
@@ -198,8 +201,8 @@ const drInfo = {
  			"name" : "Functional Medicine—Performance and Health Optimization",
 			"img" : "happy-patient-weight.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
-			"path" : "cardiac-evalaution-and-prevention",
-			"heroText" : "Living with chronic anxiety disrupts one's quality of life. Dr. Samuel Lee specializes in treating anxiety through natural healing techniques in patients throughout Los Angeles from his practice in Playa Del Rey, California.",
+			"path" : "los-angeles-based-functional-medicine-programs",
+			"heroText" : "At the Los Angeles Preventative Medicine Center, we seek to identify and address the root causes of our patients health concerns, by looking at the body as a whole integrated system and using the most data driven approaches to understanding our patient health conditions. We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient. ",
 			"questions" : [
 				{
 					"question" : "How does Dr. Lee treat anxiety?",
@@ -213,9 +216,39 @@ const drInfo = {
 					"question" : "What symptoms are associated with anxiety?",
 					"answer" : "<p>Generalized Anxiety Disorder is categorized by feelings of anxiousness in various situations and stresses in everyday life. Worry exists even when there is no obvious reason for it and people can overly stress about an otherwise resolvable issue. Getting through the day is even difficult.</p> <p>Panic Disorder can be hereditary and is characterized by sudden, repetitive attacks of extreme fear and/or panic, commonly referred to as a panic attack. Panic attacks are often described as feeling like a heart attack and the person ends up being very fearful of the attacks and worrying about when the next one will happen. It can cause many difficulties in life because the person will avoid situations he or she associates with the attacks.</p> <p>Social phobia can also be hereditary. Those with social phobia experience fear in relation to social situations and interaction. Interacting with people, even speaking, can be terrifying. Patients with social phobia often have trouble making friends and may even have some type of physical reaction when interacting with others.</p>"
 				},
-			]
+			],
+			"program_description" : "At the Los Angeles Preventative Medicine Center, we seek to identify and address the root causes of our patients health concerns, and view the body as one integrated system. We try to understand whole system, not just the symptoms. Our health center focuses on prevention through nutrition, diet, and exercise, and the use of the latest laboratory testing and other diagnostic techniques.",
+			"steps" : [
+				{
+					"title" : "Advanced Diagnostic Testing",
+					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine to provide a deeper understanding of our patients health conditions. We use these results to talior therapies to prevent chronic disease, and help them achieve optimal health results.",
+					"icon" : "data.svg",
+					"checklist" : ["Prevent Test-GeneID", "Genomic Plus Profile", "CardioIon Profile", "NutraEval", "MTHFR", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"],
+					"checklist_title" : "Advanced Testing",
+				},
+				{ 
+					"title" : "Personalized Care Plan",
+					"description" : "Following a thorough analysis of your bloodwork, genetic testing, and biomarkers for cognitive decline, our team will develop an individualized health plan based on your own biology. This includes a comprehensive diet and exercise plan, as well as a supplementation regiment.",
+					"icon" : "data.svg",
+					"checklist" : ["Personalized Nutrition Plan", "Exercise Plan", "Medication and Supplementation Plan",],
+					"checklist_title" : "Health Plan"
+				},
+				{
+					"title" : "Monitoring",
+					"description" : "Our team will conduct regular follow up testing of your biomarkers to monitor the progression and efficacy of your treatment. We will modify your exercise and diet plan based on your progress hitting your target goals on your biomarker evaluations.",
+					"icon" : "data.svg",
+					"checklist" : ["Continual Biomarker Testing", "Diet and Exercise Modification", "Supplementation Plan Modifications"],
+					"checklist_title" : "Check Up"
+				}
+			],
+			"long_form" : {
+				"show" : false,
+				"title" : "",
+				"content" : ""
+			}
 		},
-],	
+
+	],	
 	"additional_services" : ["Couples Counseling", "School and/or Work Issues", "Acculturation Issues", "Spiritual/religious issues", "Psychedelic Integration/Processing", "Sports Psychology"],
 
 	"location" : {
