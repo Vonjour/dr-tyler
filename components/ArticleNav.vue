@@ -7,7 +7,7 @@
                         <img class="text-logo" src="../static/images/zen-patient-icon.svg"/>
                     </a>
                     <a class="blog-link" href="/">
-                        <span class="blog-link-text">LA Preventative Medicine Center</span>
+                        <span class="blog-link-text">LA Preventative Medicine Center </span>
                     </a>
                 </div>
                 <div class="float-right link-section">
