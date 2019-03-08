@@ -13,18 +13,18 @@ module.exports = {
   /*
   ** Headers of the page
   */
- head: {
-  title: 'Los Angeles Preventative Care Clinic',
-  meta: [
-    { charset: 'utf-8' },
-    { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-    { hid: 'description', name: 'description', content: 'Los Angeles Based Functional Medicine Clinic' },
-    { hid : 'keywords', name: 'keywords', content: 'cancer prevention clinic, alzheimers prevention clinic, functional medicine, , spritual'}
-  ],
-  link: [
-    { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-  ]
-},
+  head: {
+    title: 'Dr. Samuel Lee — Spiritual Psychiatry',
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { hid: 'description', name: 'description', content: 'Los Angeles Based Holistic and Integrative Psychiatrist Specialist' },
+      { hid : 'keywords', name: 'keywords', content: 'psychiatrist, holistics, integrative, breath work, spritual'}
+    ],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ]
+  },
 
   plugins: ['~/plugins/vue-social-sharing', '~/plugins/contentful', '~/plugins/butter'],
 
@@ -32,8 +32,6 @@ module.exports = {
     // provide path to the file with resources
     'bootstrap-vue/nuxt', '@nuxtjs/dotenv', '@nuxtjs/google-analytics'
   ],
-  
-
 
   'google-analytics': {
     id: 'UA-133451612-1'
@@ -74,7 +72,7 @@ module.exports = {
           payload: video
         }
       })
-
+      console.log(conditions);
       return[...articles, ...conditions, ...videos]
     } 
   },
@@ -97,4 +95,3 @@ module.exports = {
     }
   }
 }
-
