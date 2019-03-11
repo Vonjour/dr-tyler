@@ -25,7 +25,7 @@
                                     <div class="condition-name-wrapper">
                                         <p class="condition-name">{{condition.name}}</p>
                                             
-                                        <a :href="user.baseUrl + 'services/' + condition.path" class="condition-link-text" >Learn More <img src="/images/right-arrow-right.png" alt="right-arrow"  /></a>
+                                        <a :href="user.baseUrl + 'services/' + condition.path" class="condition-link-text" >Learn More </a>
                                           
                                     </div>
                                 </a>
