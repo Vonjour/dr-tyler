@@ -27,11 +27,11 @@
                             <a href="/blog">Blog</a>
                         </li>
                         <li>
-                            <a href="/videos">Videos</a>
+                            <a href="">Videos</a>
                         </li>
 
                         <li>
-                            <a href="/e-book">eBooks</a>
+                            <a href="">eBooks</a>
                         </li>
                     </ul>
                 </div>

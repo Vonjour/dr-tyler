@@ -14,12 +14,12 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Dr. Samuel Lee — Spiritual Psychiatry',
+    title: 'The Los Angeles Preventative and Functional Medicine Center',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Los Angeles Based Holistic and Integrative Psychiatrist Specialist' },
-      { hid : 'keywords', name: 'keywords', content: 'psychiatrist, holistics, integrative, breath work, spritual'}
+      { hid: 'description', name: 'description', content: 'The Los Angeles Preventative Medicine Center and Functional Medicine clIE' },
+      { hid : 'keywords', name: 'keywords', content: 'functional medicine, Alzheimers Prevention, Heart Disease Prevention Clinic'}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

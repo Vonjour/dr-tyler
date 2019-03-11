@@ -3,7 +3,7 @@
         <article-nav></article-nav>
         <hero-home></hero-home>
         <featured-content></featured-content>
-        <visit-practice v-bind:title="'Visit My Practice'" v-bind:button="'Learn More'" v-bind:href="'/my-practice'"></visit-practice>
+        <visit-practice v-bind:title="'Visit My Practice'" v-bind:button="'Learn More'" v-bind:href="'/contact'"></visit-practice>
         <Footer/>
     </div>
 

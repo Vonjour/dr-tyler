@@ -13,7 +13,7 @@
             <div class="row mt-100">
                 <div class="col-xs-12 col-sm-6">
                     <h2 class="featured-content-header">What can I expect on my first visit?</h2>
-                    <p class="content-description">When a patient first visits the LA Preventative Medicine Clinic, our team will do a thorough medical examination and comprehensive genetic analysis and screen for the most relevant biomarkers. Patients can expect to spend more than an hour with Dr. Tyler and his team in this initial visit.</p>
+                    <p class="content-description">When a patient first visits the LA Preventative Medicine Clinic, our team will do a thorough medical examination and comprehensive genetic analysis, and screen for the most relevant biomarkers to understand your body's biology. Patients can expect to spend more than an hour with Dr. Tyler and his team in this initial visit.</p>
                     <a href="/contact" class="purple-button oval mt-32">Book You Diagnostic Exam</a>
                 </div>
                 <div class="col-xs-12 col-sm-6">

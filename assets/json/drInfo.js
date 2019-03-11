@@ -177,7 +177,7 @@ const drInfo = {
 				},
 				{ 
 					"title" : "Personalized Care Plan",
-					"description" : "Following a thorough analysis of your bloodwork, genetic testing, and biomarkers for cognitive decline, our team will develop an individualized health plan based on your own biology. This includes a comprehensive diet and exercise plan, as well as a supplementation regiment.",
+					"description" : "Following a thorough analysis of your bloodwork, genetic testing, and biomarkers for the expression of cancer cells, our team will develop an individualized health plan based on your own biology. This includes a comprehensive diet and exercise plan, as well as a supplementation regiment.",
 					"icon" : "data.svg",
 					"checklist" : ["Personalized Nutrition Plan", "Exercise Plan", "Medication and Supplementation Plan",],
 					"checklist_title" : "Health Plan"
@@ -221,14 +221,14 @@ const drInfo = {
 			"steps" : [
 				{
 					"title" : "Advanced Diagnostic Testing",
-					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine to provide a deeper understanding of our patients health conditions. We use these results to talior therapies to prevent chronic disease, and help them achieve optimal health results.",
+					"description" : "At our center, we do a comprehensive analysis of your blood and your genes to determine to provide a deeper understanding of our patient's health conditions. We use these results to talior therapies to prevent the devleopment of chronic disease, and help our patients achieve optimal health results.",
 					"icon" : "data.svg",
 					"checklist" : ["Prevent Test-GeneID", "Genomic Plus Profile", "CardioIon Profile", "NutraEval", "MTHFR", "Lipid Panel", "APOE Type", "HNF1A gene", "CDH13 Gene"] ,
 					"checklist_title" : "Advanced Testing",
 				},
 				{ 
 					"title" : "Personalized Care Plan",
-					"description" : "Following a thorough analysis of your bloodwork, genetic testing, and biomarkers for cognitive decline, our team will develop an individualized health plan based on your own biology. This includes a comprehensive diet and exercise plan, as well as a supplementation regiment.",
+					"description" : "Following a thorough analysis of your bloodwork, genetic testing, and advanced biomarkers, our team will develop an individualized health plan based on your own biology. This includes a comprehensive diet and exercise plan, as well as a supplementation regiment.",
 					"icon" : "data.svg",
 					"checklist" : ["Personalized Nutrition Plan", "Exercise Plan", "Medication and Supplementation Plan",],
 					"checklist_title" : "Health Plan"

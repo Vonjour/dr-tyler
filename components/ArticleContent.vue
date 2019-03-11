@@ -43,7 +43,7 @@
                         </social-sharing>
                         </div>
                         <div class="post-author-info float-left">
-                            <div class="logo-image-post" :style="{'background-image': 'url(' + require('~/static/images/profile/dr-lee-blog.jpg') + ')'}"></div>
+                            <div class="logo-image-post" :style="{'background-image': 'url(' + require('~/static/images/profile/dr_tyler_main.jpg') + ')'}"></div>
                             <span class="content-description vertical-enter-byline">By , {{article.author}}</span>
                         </div>
 
@@ -62,8 +62,8 @@
                         <div class="row">
                             
                             <div class="col-xs-12 col-sm-12">    
-                                <h2 class="join-cta">Connect with Dr. Lee</h2>
-                                <p class="value-prop">Work with Dr. Lee to learn his integrative and spiritual approach to not only treat mental illness, but to ultimately promote physical, mental, and energetic wellness.</p>
+                                <h2 class="join-cta">Connect with Dr. Tyler</h2>
+                                <p class="value-prop">Work with Dr. Tyler and his team to expolore strategies to increase lifespan, helathspan, and well-being, and optimize cognitive, physical, and emotional health.</p>
                                 <a class="get-started-cta" href="/contact">
                                     <span>Get started</span>
                                     <svg height="12" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 24">
