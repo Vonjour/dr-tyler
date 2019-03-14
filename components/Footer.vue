@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <div class="col-xs-6 col-sm-2">
-                    <p class="footer-list-header">Resources</p>
+                    <!--<p class="footer-list-header">Resources</p>
                     <ul class="footer-list-item">
                         <li>
                             <a href="/blog">Blog</a>
@@ -33,23 +33,27 @@
                         <li>
                             <a href="">eBooks</a>
                         </li>
-                    </ul>
+                    </ul>-->
                 </div>
                 <div class="col-xs-6 col-sm-2">
                     <p class="footer-list-header">Follow Dr. Tyler</p>
                     <ul class="footer-list-item">
                         <li>
-                            <a href="">Facebook</a>
+                            <a href="/blog">Blog</a>
                         </li>
+
                         <li>
-                            <a href="">Instagram</a>
+                            <a href="https://www.facebook.com/Now-and-Forever-Preventative-Medicine-Center-2090411591023966/">Facebook</a>
                         </li>
+                        <!--<li>
+                            <a href="">Instagram</a>
+                        </li>-->
                         <!--<li>
                             <a href="">Twitter</a>
                         </li>-->
-                        <li>
+                        <!--<li>
                             <a href="">YouTube</a>
-                        </li>
+                        </li>-->
                     </ul>
                 </div>
                 <div class="col-xs-6 col-sm-2">
