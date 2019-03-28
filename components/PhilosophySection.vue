@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
                     <h2 class="featured-content-header mt-50">Data Driven Personalized Care</h2>
-                    <p class="content-description">As an initial diagnostic review of a patients health, Dr. Tyler will review the most critical biomarkers to get a deep understanding of a patients overall health. Combine that with advanced testing—from genes, to a comprehensive nutrition evaluation—for meaningful information to set you on the path to optimal health.</p>
+                    <p class="content-description">To optimize your well being, we obtain and analyze a comprehensive data profile on you, informing us of your current medical state, your nutritional status and your physical condition. We will discuss this with you in detail, educating you on methods to improve the problems we may discover.</p>
                 </div>
                 <div class="col-xs-12 col-sm-6">
                     <div class="happy-patient-wrapper">   

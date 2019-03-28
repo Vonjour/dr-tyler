@@ -48,7 +48,7 @@ const drInfo = {
 	"conditions": [
 		{
 			"name" : "Cardiac Health Evaluation Program",
-			"img" : "happy-patient-breath.jpg",
+			"img" : "background-15.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
 			"path" : "cardiac-evalaution-and-prevention",
 			"heroText" : "The LA Prevention Clinic provides a thorough diagnostic evaluation and monitoring of our patients biomarkers and genetic predisposition to cardiovascular disease. Our team will prepare an individualized treatment plan that includes a personalized exercise and diet regiment.",
@@ -98,7 +98,7 @@ const drInfo = {
 		},
 		{
 			"name" : "Alzheimer's Prevention Program",
-			"img" : "happy-patient-checkup.jpg",
+			"img" : "background-14.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
 			"path" : "alzheimers-prevention-clinic-los-angeles",
 			"heroText" : "At the LA Preventative Medicine Center, people interested in lowering their Alzheimer's risk are followed over time and receive a personalized plan based on many elements, such as risk factors, genes, medical conditions, and the latest scientific research. We use the latest scientific evidence and consider a variety of health factors to tailor therapies for each of our patients.",
@@ -148,7 +148,7 @@ const drInfo = {
 		},
 		{
 			"name" : "Cancer Prevention Program",
-			"img" : "happy-patient-exam.jpg",
+			"img" : "kale.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
 			"path" : "cancer-clinic-los-angeles",
 			"heroText" : "At the Los Angeles Preventative Medicine Clinic our team works with patients to create lifestyle and metabolic interventions to attempt to lower one’s risk of developing a cancer. We analyze our patients overall metabolic health, inflammation, and genes to tailor personalized therapies to help our patients live a cancer free life.",
@@ -199,7 +199,7 @@ const drInfo = {
 		
 		{
  			"name" : "Functional Medicine—Performance and Health Optimization",
-			"img" : "happy-patient-weight.jpg",
+			"img" : "steps.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
 			"path" : "los-angeles-based-functional-medicine-programs",
 			"heroText" : "At the Los Angeles Preventative Medicine Center, we seek to identify and address the root causes of our patients health concerns, by looking at the body as a whole integrated system and using the most data driven approaches to understanding our patient health conditions. We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient. ",

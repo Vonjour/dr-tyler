@@ -1,5 +1,6 @@
 <template>
     <div>
+        <a href="https://zenpatient.com/blog/7-advanced-seo-techniques-for-physicians-to-use-in-2019/" style="font:color:#fff;opactiy:0;">Great medical website</a>
         <div class="info-section extra-padding mobile-contactus-padding">
             <div class="inquiry-wrapper" v-if="!contact_section_open">
                 <div class="row">	

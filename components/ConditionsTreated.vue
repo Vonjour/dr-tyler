@@ -5,7 +5,8 @@
                 <div class="col-xs-12 col-sm-12">
                     <div class="condition-content">
                         <h2 class="featured-content-header centered" >The Pillars of Prevention</h2>
-                        <p class="content-description centered">The wellness center performs thororough biomarker evaluations in addition to advanced molecular genetic tests searching for DNA sequences that contain mutations which could predispose you to various illnesses, including heart attacks, Alzheimer’s disease, and many forms of cancers.</p>
+                        <p class="content-description centered">To prevent illness, it is helpful to know illnesses of which you might be susceptible. To assess this, we perform well researched state-of-the-art genetic tests and biomarkers that could predispose you to heart attacks, Alzheimer’s disease and a variety of cancers and other diseases. Once your risk is identified, we will design a thorough preventative health regiment to attenuate the health issues we have identified.
+</p>
                     </div>
                 </div>
             </div>
