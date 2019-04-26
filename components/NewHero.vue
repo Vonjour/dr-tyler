@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <nav>
+    <section class="hero-container-new">
+        <nav class="clear">
             <div class="article-nav-wrapper">
                 <div class="float-left logo-section">
                     <a class="logo-link" href="/">
@@ -39,13 +39,39 @@
             <a class="mobile-link link" href="/blog">Blog</a>
             <a class="mobile-link link" href="/contact">Contact Dr. Tyler</a>
         </div>
-    </div>
-
+			<div class="hero-background-image">
+				<div class="hero-image"></div>
+			</div>
+			<div class="container-text">
+				<div class="row">
+					<div class="col-sm-7 col-xs-12">
+						<div class="hero-text-section">
+							<h1 class="main-header-hero">
+								The Premiere Preventative Medicine Center 
+							</h1>
+							<p class="hero-text-info">
+								Glee makes it easy speak to a doctor, get your
+								medication, and access the most effective and
+								comprehensive therapy plans designed by leading
+								integrative psychiatrists and neurologists.
+							</p>
+						</div>
+					</div>
+					<div class="col-sm-5 col-xs-12"></div>
+				</div>
+			</div>
+		</section>
 </template>
 
 <script>
+
+import ArticleNav from "~/components/ArticleNav";
+
 export default {
-    data () {
+    components: {
+        ArticleNav : ArticleNav
+    },
+     data () {
         return {
             mobile_header : false,
         }
@@ -57,3 +83,7 @@ export default {
     }
 }
 </script>
+
+<style>
+
+</style>

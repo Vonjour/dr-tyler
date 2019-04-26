@@ -1,6 +1,7 @@
 <template>
     <div>
-        <article-nav></article-nav>
+        
+        <new-hero></new-hero>
         <hero-practice v-bind:h1="h1" v-bind:description="description" v-bind:description2="description_2"></hero-practice>
         <philosophy-section></philosophy-section>
         <conditions-treated></conditions-treated>
@@ -23,11 +24,13 @@ import Credentials from "~/components/Credentials";
 import FirstVisit from "~/components/FirstVisit";
 import VisitPractice from "~/components/VisitPractice";
 import Footer from "~/components/Footer";
+import NewHero from "~/components/NewHero";
 
 
 
 export default {
     components: {
+        NewHero : NewHero,
         ArticleNav : ArticleNav,
         HeroPractice : HeroPractice,
         PhilosophySection : PhilosophySection,
