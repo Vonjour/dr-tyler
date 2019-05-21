@@ -26,9 +26,9 @@
                                         <p class="pricing-copy pricing-title">{{item}}</p>
                                     </div>
                                 </div>
-                                <img src="~/static/images/blob-yellow.png" class="happy-patient-yellow-blob background" v-if="index === 0">
+                                <img src="~/static/images/blob-yellow.png" class="happy-patient-yellow-blob background" v-if="index === 0" style="display:none;">
                                 <img src="~/static/images/blob-green.png" class="happy-patient-green-blob background" v-if="index === 0">
-                                <img src="~/static/images/blob-yellow.png" class="fixed-content-yellow-tracks background" v-if="index === 1">
+                                <img src="~/static/images/blob-yellow.png" class="fixed-content-yellow-tracks background" v-if="index === 1" style="display:none;">
                                 <img src="~/static/images/blob-blue.png" class="fixed-content-blue-blob background" v-if="index === 2">
                             </div>
                         </div>

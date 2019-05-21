@@ -3,16 +3,16 @@ const drInfo = {
 	"baseUrl" : "https://localhost:3000/",
 	"blogProfile" : "dr-tyler-main.jpg",
 	"faqs" : [{
-		"question" : "Does the Los Angeles Preventative Medicine Clinic accept insurance?",
-		"answer" : "<p>The Los Angeles Preventative Medicine CLinic does not bill insurance. However, if you have a PPO insurance plan you may be able to get a portion of your fees reimbursed from your insurance company (see below).</p><p>In order for our clinic to provide the most effective care I can, we operate outside of the insurance system. We do this because insurance companies incentivize health care providers to have short visits that don't allow physicians to do thorough examinations of a patients case, and have treatment guidelines based on this flawed system. This does a disservice to patients.</p><p>While we do not bill insurance, we can provide you with a statement that you can submit to a PPO insurance plan. To determine if you coverage through your insurance carrier, the first thing you should do is call them. Some helpful questions you can ask your insurance carrier:<ul><li>What are my preventative care health benefits?</li><li>What is the coverage amount per treatment?</li><ul></p>"
+		"question" : "Does the Longevity Center accept insurance?",
+		"answer" : "<p>The Longevity Center does not bill insurance. However, if you have a PPO insurance plan you may be able to get a portion of your fees reimbursed from your insurance company (see below).</p><p>In order for our clinic to provide the most effective care we can, we operate outside of the insurance system. We do this because insurance companies incentivize health care providers to have short visits that don't allow physicians to do thorough examinations of a patient's case, and have treatment guidelines based on this flawed system. This does a disservice to patients.</p><p>While we do not bill insurance, we can provide you with a statement that you can submit to a PPO insurance plan. To determine if you coverage through your insurance carrier, the first thing you should do is call them. Some helpful questions you can ask your insurance carrier:<ul><li>What are my preventative care health benefits?</li><li>What is the coverage amount per treatment?</li><ul></p>"
 	},
 	{
-		"question" : "Does Los Angeles Preventative Medicine Clinic see patients outside of Los Angeles?",
-		"answer" : "<p>Patients from all over the world can fly to Los Angeles to see Dr. Tyler and his team. Dr. Tyler will work with out of state patients to analyze their lab work and provide the patient with a lifestyle therapy treatment plan focused on diet and exercise.</p>"
+		"question" : "Does Longevity Center see patients outside of Los Angeles?",
+		"answer" : "<p>Patients from all over the world can fly to Los Angeles to see Dr. Tyler and his team. Dr. Tyler will work with out of state patients to analyze their lab work and provide the patient with a lifestyle therapy treatment plan focused.</p>"
 	},
 	{
 		"question" : "What is funcitonal medicine?",
-		"answer" : "<p> Functional Medicine determines how and why illness occurs and restores health by addressing the root causes of disease for each individual. At the Los Angeles Preventative Medicine Center, It requires a detailed understanding of each patient’s genetic, biochemical, and lifestyle factors and leverages that data to direct personalized treatment plans that lead to improved patient outcomes.</p>"
+		"answer" : "<p> Functional Medicine determines how and why illness occurs and restores health by addressing the root causes of disease for each individual. It requires a detailed understanding of each patient’s genetic, biochemical, and lifestyle factors and leverages that data to direct personalized treatment plans that lead to improved patient outcomes.</p>"
 	},
 	{
 		"question" : "Can Dr. Tyler be my primary care physician?",
@@ -51,7 +51,7 @@ const drInfo = {
 			"img" : "background-15.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
 			"path" : "cardiac-evalaution-and-prevention",
-			"heroText" : "The LA Prevention Clinic provides a thorough diagnostic evaluation and monitoring of our patients biomarkers and genetic predisposition to cardiovascular disease. Our team will prepare an individualized treatment plan that includes a personalized exercise and diet regiment.",
+			"heroText" : "The LA Longevity Center provides a thorough diagnostic evaluation and monitoring of our patients biomarkers and genetic predisposition to cardiovascular disease. Our team will prepare an individualized treatment plan that includes a personalized exercise and diet regiment to help our patients achieve optimal health.",
 			"questions" : [
 				{
 					"question" : "How does Dr. Lee treat anxiety?",
@@ -93,7 +93,7 @@ const drInfo = {
 			"long_form" : {
 				"show" : true,
 				"title" : "The Importance of Early Heart Disease Detection",
-				"content" : "<p>Just about everyone knows someone who had a heart attack in their 40’s or early fifties.  Sadly, this first heart attack is often fatal. Here at the Los Angeles Preventative Medicine Center we are committed to making sure this will never happen to you.</p><p>The medical profession has long known that heart attacks are the leading cause of death for both men and women in the United States. And yet heart attacks can be prevented. You are probably wondering, ‘how can a preventable illness be the number one killer of Americans?’ The reason is simple. The process that leads to heart attacks is silent. By the time it ‘announces’ itself, it’s too late: you’ve just had a heart attack or are on the verge of having one. Let’s explore this.</p><p>The disease that leads to heart attacks is called atherosclerosis. Atherosclerosis is the condition in which a fatty substance called plaque develops in the walls of your heart arteries.  Under the wrong conditions, this plaque can rupture off the arterial wall and form a clot which blocks blood from flowing to the heart muscle. When heart muscle is deprived of blood, it dies. This is a heart attack.  Often this occurs before the plaque has caused any symptoms. It’s literally a silent killer.</p><p>Plaque surreptitiously develops in our arteries as we age.  For some it may be very little, but for others it can be substantial. At our center, we do a comprehensive analysis of your blood and your genes to determine if you are at risk of developing atherosclerosis. We also do tests which can literally visualize the amount of plaque that currently exists in your arteries.  Through this testing we can establish the stage of your atherosclerosis. This staging is a very reliable way to predict your chance of a future heart attack. The best part of this analysis is that once we figure out your risk, we can recommend a variety of treatment modalities to substantially reduce or even eliminate the possibility of you having a heart attack.</p><p>So be pro-active. Come on in and let us test you for early heart disease.</p>"
+				"content" : "<p>Just about everyone knows someone who had a heart attack in their 40’s or early fifties.  Sadly, this first heart attack is often fatal. Here at the LA Longevity Center we are committed to making sure this will never happen to you.</p><p>The medical profession has long known that heart attacks are the leading cause of death for both men and women in the United States. And yet heart attacks can be prevented. You are probably wondering, ‘how can a preventable illness be the number one killer of Americans?’ The reason is simple. The process that leads to heart attacks is silent. By the time it ‘announces’ itself, it’s too late: you’ve just had a heart attack or are on the verge of having one. Let’s explore this.</p><p>The disease that leads to heart attacks is called atherosclerosis. Atherosclerosis is the condition in which a fatty substance called plaque develops in the walls of your heart arteries.  Under the wrong conditions, this plaque can rupture off the arterial wall and form a clot which blocks blood from flowing to the heart muscle. When heart muscle is deprived of blood, it dies. This is a heart attack.  Often this occurs before the plaque has caused any symptoms. It’s literally a silent killer.</p><p>Plaque surreptitiously develops in our arteries as we age.  For some it may be very little, but for others it can be substantial. At our center, we do a comprehensive analysis of your blood and your genes to determine if you are at risk of developing atherosclerosis. We also do tests which can literally visualize the amount of plaque that currently exists in your arteries.  Through this testing we can establish the stage of your atherosclerosis. This staging is a very reliable way to predict your chance of a future heart attack. The best part of this analysis is that once we figure out your risk, we can recommend a variety of treatment modalities to substantially reduce or even eliminate the possibility of you having a heart attack.</p><p>So be pro-active. Come on in and let us test you for early heart disease.</p>"
 			}
 		},
 		{
@@ -101,7 +101,7 @@ const drInfo = {
 			"img" : "background-14.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
 			"path" : "alzheimers-prevention-clinic-los-angeles",
-			"heroText" : "At the LA Preventative Medicine Center, people interested in lowering their Alzheimer's risk are followed over time and receive a personalized plan based on many elements, such as risk factors, genes, medical conditions, and the latest scientific research. We use the latest scientific evidence and consider a variety of health factors to tailor therapies for each of our patients.",
+			"heroText" : "At the LA Longevity Center, people interested in lowering their Alzheimer's risk are followed over time and receive a personalized plan based on many elements, such as risk factors, genes, medical conditions, and the latest scientific research. We use the latest scientific evidence and consider a variety of health factors to tailor therapies for each of our patients.",
 			"questions" : [
 				{
 					"question" : "How does Dr. Lee treat anxiety?",
@@ -151,7 +151,7 @@ const drInfo = {
 			"img" : "kale.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
 			"path" : "cancer-clinic-los-angeles",
-			"heroText" : "At the Los Angeles Preventative Medicine Clinic our team works with patients to create lifestyle and metabolic interventions to attempt to lower one’s risk of developing a cancer. We analyze our patients overall metabolic health, inflammation, and genes to tailor personalized therapies to help our patients live a cancer free life.",
+			"heroText" : "At the Longevity Center our team works with patients to create lifestyle and metabolic interventions to attempt to lower one’s risk of developing a cancer. We analyze our patients overall metabolic health, inflammation, and genes to tailor personalized therapies to help our patients live a cancer free life.",
 			"questions" : [
 				{
 					"question" : "How does Dr. Lee treat anxiety?",
@@ -202,7 +202,7 @@ const drInfo = {
 			"img" : "steps.jpg",
 			"description" : "Mood problems, such as depression, mood swings, seasonal affective disorder, and bipolar disorder.",
 			"path" : "los-angeles-based-functional-medicine-programs",
-			"heroText" : "At the Los Angeles Preventative Medicine Center, we seek to identify and address the root causes of our patients health concerns, by looking at the body as a whole integrated system and using the most data driven approaches to understanding our patient health conditions. We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient. ",
+			"heroText" : "At the LA Longevity Center, we seek to identify and address the root causes of our patients health concerns, by looking at the body as a whole integrated system and using the most data driven approaches to understanding our patient health conditions. We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient. ",
 			"questions" : [
 				{
 					"question" : "How does Dr. Lee treat anxiety?",
@@ -217,7 +217,7 @@ const drInfo = {
 					"answer" : "<p>Generalized Anxiety Disorder is categorized by feelings of anxiousness in various situations and stresses in everyday life. Worry exists even when there is no obvious reason for it and people can overly stress about an otherwise resolvable issue. Getting through the day is even difficult.</p> <p>Panic Disorder can be hereditary and is characterized by sudden, repetitive attacks of extreme fear and/or panic, commonly referred to as a panic attack. Panic attacks are often described as feeling like a heart attack and the person ends up being very fearful of the attacks and worrying about when the next one will happen. It can cause many difficulties in life because the person will avoid situations he or she associates with the attacks.</p> <p>Social phobia can also be hereditary. Those with social phobia experience fear in relation to social situations and interaction. Interacting with people, even speaking, can be terrifying. Patients with social phobia often have trouble making friends and may even have some type of physical reaction when interacting with others.</p>"
 				},
 			],
-			"program_description" : "At the Los Angeles Preventative Medicine Center, we seek to identify and address the root causes of our patients health concerns, and view the body as one integrated system. We try to understand whole system, not just the symptoms. Our health center focuses on prevention through nutrition, diet, and exercise, and the use of the latest laboratory testing and other diagnostic techniques.",
+			"program_description" : "At the LA Longevity Center, we seek to identify and address the root causes of our patients health concerns, and view the body as one integrated system. We try to understand whole system, not just the symptoms. Our health center focuses on prevention through nutrition, diet, and exercise, and the use of the latest laboratory testing and other diagnostic techniques.",
 			"steps" : [
 				{
 					"title" : "Advanced Diagnostic Testing",
@@ -252,16 +252,16 @@ const drInfo = {
 	"additional_services" : ["Couples Counseling", "School and/or Work Issues", "Acculturation Issues", "Spiritual/religious issues", "Psychedelic Integration/Processing", "Sports Psychology"],
 
 	"location" : {
-		"name" : "The LA Preventative Medicine Clinic",
+		"name" : "LA Longevity Center",
 		"address" : "2811 Wilshire Blvd",
 		"address_2" : "Suite #800",
 		"city_state" : "Santa Monica, CA 90403",
 		"phone" : "(310) 828-0733 ",
-		"email" : "aaguirre@theandracenter.com",
+		"email" : "	patriciatawfik@yahoo.com",
 		"scheduler" : "https://zenpatient.com/schedule/dr-Lee"
 	},
 	"target_geo" : "Los Angeles",
-	"mailchimpId" : "13921384e5",
+	"mailchimpId" : "a29a74e684",
 	"schedule" : [{
 		"day" : "Monday",
 		"hours" : "10 AM - 6 PM"	

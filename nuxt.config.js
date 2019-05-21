@@ -14,11 +14,11 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'The Los Angeles Preventative and Functional Medicine Center',
+    title: 'The Los Angeles Longevity and Functional Medicine Center',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'The Los Angeles Preventative Medicine Center and Functional Medicine clIE' },
+      { hid: 'description', name: 'description', content: 'The LA Longevity Center and Functional Medicine clIE' },
       { hid : 'keywords', name: 'keywords', content: 'functional medicine, Alzheimers Prevention, Heart Disease Prevention Clinic'}
     ],
     link: [
@@ -30,18 +30,23 @@ module.exports = {
 
   modules: [
     // provide path to the file with resources
-    'bootstrap-vue/nuxt', '@nuxtjs/dotenv',
+    'bootstrap-vue/nuxt', '@nuxtjs/dotenv', '@nuxtjs/style-resources'
   ],
-    
+
+styleResources: {
+        scss: [
+            './styles.scss',
+            //'./assets/scss/*.scss'
+
+        ]
+    },
 
 
   env: {
     baseUrl : baseUrl,
   },
 
-  css: [
-    { src: './styles.scss', lang: 'scss' },
-  ],
+
 
   /*
   ** Customize the progress bar color
@@ -78,6 +83,9 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    cache : true,
+    styleResource: false,
+    parallel: true,
     /*
     ** Run ESLint on save
     */

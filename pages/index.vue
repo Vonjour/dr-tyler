@@ -42,8 +42,8 @@ export default {
     },
     data(){
         return{
-            h1 : 'Now and Forever Preventative Health',
-            description : "Welcome to our clinic! Along with myself, Douglas Tyler M.D., and my partner, health coach Patricia Tawfik, we are dedicated to keeping you healthy for as long as possible. This is the stated mission at Now And Forever Preventative Health Center.",
+            h1 : 'LA Longevity Center',
+            description : "Welcome to our clinic! Along with myself, Douglas Tyler M.D., and my partner, health coach Patricia Tawfik, we are dedicated to keeping you healthy for as long as possible. This is the stated mission at LA Longevity Center.",
             description_2 : "We evaluate you from head to toe employing not only a complete battery of conventional tests but also those on the cutting edge of medical science. In this way we are able to not only determine your current state of health but also identify potential future medical problems. Going forward with this information, we will formulate a list of recommendations designed to improve your health now and forever."
         }
     }

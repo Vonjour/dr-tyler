@@ -7,7 +7,7 @@
                         <img class="text-logo" src="../static/images/zen-patient-icon.svg"/>
                     </a>
                     <a class="blog-link" href="/">
-                        <span class="blog-link-text">Now and Forever Health </span>
+                        <span class="blog-link-text">The LA Longevity Health Center</span>
                     </a>
                 </div>
                 <div class="float-right link-section">
@@ -47,13 +47,10 @@
 					<div class="col-sm-7 col-xs-12">
 						<div class="hero-text-section">
 							<h1 class="main-header-hero">
-								The Premiere Preventative Medicine Center 
+								LA's Premiere Longevity Health Center 
 							</h1>
 							<p class="hero-text-info">
-								Glee makes it easy speak to a doctor, get your
-								medication, and access the most effective and
-								comprehensive therapy plans designed by leading
-								integrative psychiatrists and neurologists.
+								At the LA Longevity Center, we seek to identify and address the root causes of our patients health concerns, by looking at the body as a whole integrated system and using the most data driven approaches to understanding our patient health conditions. We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient in order to achieve optimal health.
 							</p>
 						</div>
 					</div>

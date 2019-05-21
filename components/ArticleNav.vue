@@ -7,7 +7,7 @@
                         <img class="text-logo" src="../static/images/zen-patient-icon.svg"/>
                     </a>
                     <a class="blog-link" href="/">
-                        <span class="blog-link-text">Now and Forever Health </span>
+                        <span class="blog-link-text">LA Longevity Center</span>
                     </a>
                 </div>
                 <div class="float-right link-section">

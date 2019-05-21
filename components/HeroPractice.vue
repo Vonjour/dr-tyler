@@ -10,7 +10,7 @@
                                     <img src="~static/images/profile/dr_tyler_white_coat.jpg" class="physician-profile-image"/>
                                 </div>
                             </div>
-                            <img src="~static/images/blob-orange.png" class="orange-blob" />
+                            <img src="~static/images/blob-orange.png" class="orange-blob" style="display:none;"/>
                         </div>
                     </div>
                     <div class="col-xs-6 col-sm-6">

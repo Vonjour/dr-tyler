@@ -57,7 +57,7 @@
 }
 
 .hero-header{
-    color: #323648;
+    color: #3e3e3e;
     @extend %tiempos-semibold !optional;
     font-size: 48px;
     margin-top: 50px;
@@ -85,6 +85,7 @@
     overflow: hidden;
     @media (max-width: 440px){
         height: 86vh;
+        padding: 20px 30px;
     }
 
 }
@@ -107,9 +108,10 @@
     @media (max-width: 870px){
         background-position: 62% 60%;
     }
-    @media (max-width: 440px){
+    @media (max-width: 490px){
         height: 982px;
         background-position: 69% 60%;
+        background-image : url('~assets/running-mobile.jpg');
     }
 }
 
@@ -118,13 +120,17 @@
 .container-text{
     max-width: 1140px;
     width: 100%;
-    margin-top: 30px;
+    margin-top: 80px;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
     margin-left: auto;
     margin-right: auto;
     position: relative;
     z-index: 100;
     @media (max-width: 440px){
         margin-top: 32px;
+        padding-left: .5rem;
+        padding-right: .5rem;
     }
 }
 
@@ -136,8 +142,9 @@
 
 .main-header-hero{
     @extend %tiempos-semibold;
-    color: #4f4f4f;
+    color: #3e3e3e;
     font-size: 48px;
+    margin-bottom: 20px;
     @media (max-width: 870px){
         font-size: 40px;
     }
@@ -150,6 +157,8 @@
     @extend %averta;
     font-size: 22px;
     color: #4f4f4f;
+    line-height: 28px;
+    padding-right: 30px;
     @media (max-width: 870px){
         font-size: 20px;
     }

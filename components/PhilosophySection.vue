@@ -9,7 +9,7 @@
                 <div class="col-xs-12 col-sm-6">
                     <div class="happy-patient-wrapper">   
                         <div class="happy-patient"></div>
-                        <img src="~static/images/blob-yellow.png" class="happy-patient-yellow-blob" />
+                        <img src="~static/images/blob-yellow.png" class="happy-patient-yellow-blob" style="display:none;"/>
                         <img src="~static/images/blob-green.png" class="happy-patient-green-blob" />
                     </div>
                 </div>

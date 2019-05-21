@@ -67,7 +67,7 @@
                                 <a class="get-started-cta" href="/contact">
                                     <span>Get started</span>
                                     <svg height="12" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 24">
-								        <path fill="#323648" d="M1.032 14.192l23.628-.413-7.08 7.343 2.388 2.31 11.03-11.444L19.575.936l-2.307 2.393 7.333 7.09-23.628.413z"></path>
+								        <path fill="#3e3e3e" d="M1.032 14.192l23.628-.413-7.08 7.343 2.388 2.31 11.03-11.444L19.575.936l-2.307 2.393 7.333 7.09-23.628.413z"></path>
 							        </svg>
                                     
                                 </a>
