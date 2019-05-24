@@ -5,6 +5,9 @@
     border-top: 1px solid #ebebeb;
     border-bottom: 1px solid #ebebeb;
     overflow: hidden;
+    @media(max-width:490px){
+        padding: 100px 2.5rem;
+    }
 }
 
 .featured-content-header{

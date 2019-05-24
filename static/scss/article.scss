@@ -23,8 +23,8 @@ nav{
     height: 100%;
     position: relative;
     @media (max-width: 490px){
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
 
@@ -110,6 +110,10 @@ nav{
     margin-top: 6rem;
     margin-bottom: 8rem;
     width: 100%;
+    @media(max-width:490px){
+        margin-top : 2rem;
+        margin-bottom: 3rem;
+    }
 }
 
 .hero-content-wrapper{

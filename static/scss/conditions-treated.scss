@@ -5,8 +5,7 @@
 .conditions-content-wrapper{
     padding: 110px 100px;
     width: 100%;
-    overflow-x: hidden;
-    overflow-y: -webkit-paged-x;
+    overflow: hidden;
     @media only screen and (max-width: 790px){
         padding-left: 20px;
         padding-right: 20px;
