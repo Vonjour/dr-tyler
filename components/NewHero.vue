@@ -50,7 +50,7 @@
 								LA's Premiere Longevity Health Center 
 							</h1>
 							<p class="hero-text-info">
-								At the LA Longevity Center, we seek to identify and address the root causes of our patients health concerns, by looking at the body as a whole integrated system and using the most data driven approaches to understanding our patient health conditions. We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient in order to achieve optimal health.
+								At the LA Longevity Center, we seek to identify and address the root causes of our patient's health concerns, by looking at the body as a whole integrated system and using the most data driven approaches to understanding our patient health conditions. We use the latest scientific evidence and consider a variety of factors — such as current and past medical problems, genetics, and nutritional patterns — to tailor therapies for each patient in order to achieve optimal health.
 							</p>
 						</div>
 					</div>
