@@ -28,7 +28,7 @@
     "babel-eslint": "^10.0.1",
     "bootstrap-sass": "^3.3.7",
     "bulma": "^0.7.5",
-    "eslint": "^4.19.1",
+    "eslint": "^10.4.0",
     "eslint-friendly-formatter": "^4.0.1",
     "eslint-loader": "^2.1.1",
     "eslint-plugin-vue": "^4.0.0",
